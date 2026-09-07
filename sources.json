@@ -1,0 +1,154 @@
+{
+  "_comment": "Add or remove sources here. No code changes needed. Regex strings are JavaScript regex source (remember to escape backslashes for JSON).",
+
+  "csKeywords": [
+    "computer science", "computer engineering", "software", "programming", "coding",
+    "information technology", "data science", "artificial intelligence", " ai ", "machine learning",
+    "cyber", "robot", "it kmitl", "hackathon",
+    "วิทยาการคอมพิวเตอร์", "วิศวกรรมคอมพิวเตอร์", "คอมพิวเตอร์", "ซอฟต์แวร์", "โปรแกรม",
+    "เทคโนโลยีสารสนเทศ", "ไอที", "ปัญญาประดิษฐ์", "วิทยาการข้อมูล", "ข้อมูล",
+    "ไซเบอร์", "หุ่นยนต์", "ดิจิทัล", "แฮกกาธอน"
+  ],
+
+  "sources": [
+    {
+      "id": "kmitl-news",
+      "name": "KMITL Official Website — News",
+      "nameTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "type": "html",
+      "enabled": true,
+      "homepage": "https://www.kmitl.ac.th/content-category/news",
+      "listUrl": "https://www.kmitl.ac.th/content-category/news",
+      "origin": "https://www.kmitl.ac.th",
+      "limit": 20,
+      "item": "<article[^>]*data-history-node-id[\\s\\S]*?</article>",
+      "link": "<h2 class=\"node__title\">\\s*<a href=\"([^\"]+)\"",
+      "title": "field--name-title[^>]*>([^<]+)<",
+      "category": "field--name-field-content-category[\\s\\S]*?<a [^>]*>([^<]+)<",
+      "detailDate": [
+        "property=\"schema:dateCreated\"[^>]*content=\"([^\"]+)\"",
+        "property=\"schema:dateModified\"[^>]*content=\"([^\"]+)\""
+      ]
+    },
+    {
+      "id": "kmitl-home",
+      "name": "KMITL Official Website — Highlights",
+      "nameTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
+      "kind": "website",
+      "type": "html",
+      "enabled": true,
+      "homepage": "https://www.kmitl.ac.th/",
+      "listUrl": "https://www.kmitl.ac.th/",
+      "origin": "https://www.kmitl.ac.th",
+      "limit": 24,
+      "item": "<article[^>]*data-history-node-id[\\s\\S]*?</article>",
+      "link": "<h2 class=\"node__title\">\\s*<a href=\"([^\"]+)\"",
+      "title": "field--name-title[^>]*>([^<]+)<",
+      "category": "field--name-field-content-category[\\s\\S]*?<a [^>]*>([^<]+)<",
+      "detailDate": [
+        "property=\"schema:dateCreated\"[^>]*content=\"([^\"]+)\"",
+        "property=\"schema:dateModified\"[^>]*content=\"([^\"]+)\""
+      ]
+    },
+    {
+      "id": "it-event",
+      "name": "Faculty of IT (KMITL) — Event News",
+      "nameTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
+      "kind": "website",
+      "type": "html",
+      "enabled": true,
+      "homepage": "https://www.it.kmitl.ac.th/th/categories/event-news",
+      "listUrl": "https://www.it.kmitl.ac.th/th/categories/event-news",
+      "origin": "https://www.it.kmitl.ac.th",
+      "limit": 20,
+      "item": "<a href=\"/th/posts/[^\"]+\">[\\s\\S]*?</a>",
+      "link": "<a href=\"(/th/posts/[^\"]+)\"",
+      "title": "<h3[^>]*>([^<]+)</h3>",
+      "category": "rounded-full border[^>]*>([^<]+)</div>",
+      "image": "src=\"(/_next/image\\?url=[^\"]+)\"",
+      "detailDate": ["\\\\?\"publishedAt\\\\?\":\\\\?\"([^\"\\\\]+)"]
+    },
+    {
+      "id": "it-research",
+      "name": "Faculty of IT (KMITL) — Research News",
+      "nameTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าววิจัย",
+      "kind": "website",
+      "type": "html",
+      "enabled": true,
+      "homepage": "https://www.it.kmitl.ac.th/th/categories/research-news",
+      "listUrl": "https://www.it.kmitl.ac.th/th/categories/research-news",
+      "origin": "https://www.it.kmitl.ac.th",
+      "limit": 20,
+      "item": "<a href=\"/th/posts/[^\"]+\">[\\s\\S]*?</a>",
+      "link": "<a href=\"(/th/posts/[^\"]+)\"",
+      "title": "<h3[^>]*>([^<]+)</h3>",
+      "category": "rounded-full border[^>]*>([^<]+)</div>",
+      "image": "src=\"(/_next/image\\?url=[^\"]+)\"",
+      "detailDate": ["\\\\?\"publishedAt\\\\?\":\\\\?\"([^\"\\\\]+)"]
+    },
+    {
+      "id": "it-awards",
+      "name": "Faculty of IT (KMITL) — Awards News",
+      "nameTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
+      "kind": "website",
+      "type": "html",
+      "enabled": true,
+      "homepage": "https://www.it.kmitl.ac.th/th/categories/awards-news",
+      "listUrl": "https://www.it.kmitl.ac.th/th/categories/awards-news",
+      "origin": "https://www.it.kmitl.ac.th",
+      "limit": 20,
+      "item": "<a href=\"/th/posts/[^\"]+\">[\\s\\S]*?</a>",
+      "link": "<a href=\"(/th/posts/[^\"]+)\"",
+      "title": "<h3[^>]*>([^<]+)</h3>",
+      "category": "rounded-full border[^>]*>([^<]+)</div>",
+      "image": "src=\"(/_next/image\\?url=[^\"]+)\"",
+      "detailDate": ["\\\\?\"publishedAt\\\\?\":\\\\?\"([^\"\\\\]+)"]
+    },
+    {
+      "id": "kmitl-rss",
+      "name": "KMITL Official Website — RSS",
+      "nameTh": "เว็บไซต์ทางการ สจล. — RSS",
+      "_note": "Off by default: this feed carries procurement notices and staff profiles rather than news. Set enabled to true if you want them.",
+      "kind": "website",
+      "type": "rss",
+      "enabled": false,
+      "homepage": "https://www.kmitl.ac.th/",
+      "listUrl": "https://www.kmitl.ac.th/th/rss.xml",
+      "limit": 20
+    },
+    {
+      "id": "fb-kmitl",
+      "name": "KMITL Official Facebook Page",
+      "nameTh": "เฟซบุ๊กทางการ สจล.",
+      "kind": "facebook",
+      "type": "facebook",
+      "enabled": true,
+      "homepage": "https://www.facebook.com/kmitlofficial",
+      "pageId": "kmitlofficial",
+      "tokenEnv": "FACEBOOK_PAGE_TOKEN",
+      "limit": 15
+    },
+    {
+      "id": "fb-it-kmitl",
+      "name": "Faculty of IT (KMITL) Official Facebook Page",
+      "nameTh": "เฟซบุ๊กทางการ คณะไอที สจล.",
+      "kind": "facebook",
+      "type": "facebook",
+      "enabled": true,
+      "homepage": "https://www.facebook.com/itkmitl",
+      "pageId": "itkmitl",
+      "tokenEnv": "FACEBOOK_PAGE_TOKEN",
+      "limit": 15
+    },
+    {
+      "id": "manual",
+      "name": "Added by hand",
+      "nameTh": "เพิ่มเอง",
+      "kind": "manual",
+      "type": "manual",
+      "enabled": true,
+      "file": "data/manual.json"
+    }
+  ]
+}

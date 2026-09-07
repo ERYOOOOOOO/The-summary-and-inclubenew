@@ -1,0 +1,12 @@
+[
+  {
+    "title": "ตัวอย่าง: ลบรายการนี้ทิ้งได้ / Example entry — delete this",
+    "url": "https://www.facebook.com/itkmitl",
+    "source": "Faculty of IT (KMITL) Official Facebook Page",
+    "sourceTh": "เฟซบุ๊กทางการ คณะไอที สจล.",
+    "kind": "facebook",
+    "category": "ตัวอย่าง",
+    "date": "2026-09-01T09:00:00Z",
+    "summary": "Add posts here by hand when you cannot use the Facebook Graph API. Every field except title and url is optional."
+  }
+]

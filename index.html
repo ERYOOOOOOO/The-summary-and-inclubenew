@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KMITL CS News Board</title>
+<meta name="description" content="News about KMITL and its computer science / IT faculties, collected from the official website and official Facebook pages.">
+<link rel="stylesheet" href="assets/styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='13' font-size='14'>📰</text></svg>">
+</head>
+<body>
+
+<a class="skip" href="#list" data-i18n="skip">Skip to the news list</a>
+
+<header class="head">
+  <div class="wrap">
+    <div class="head-row">
+      <div>
+        <h1 data-i18n="title">KMITL CS News Board</h1>
+        <p class="sub" data-i18n="subtitle">News about KMITL computer science, gathered from official sources.</p>
+      </div>
+      <button id="lang" class="lang" type="button" aria-label="Switch language">ไทย</button>
+    </div>
+    <p class="meta" id="updated"></p>
+  </div>
+</header>
+
+<nav class="bar" aria-label="Filters">
+  <div class="wrap">
+    <div class="row">
+      <label class="search">
+        <span class="vh" data-i18n="searchLabel">Search</span>
+        <input id="q" type="search" autocomplete="off" data-i18n-ph="searchPh" placeholder="Search news…  (press /)">
+      </label>
+      <label class="pick">
+        <span class="vh" data-i18n="sortLabel">Sort</span>
+        <select id="sort">
+          <option value="new" data-i18n="sortNew">Newest first</option>
+          <option value="old" data-i18n="sortOld">Oldest first</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="row" id="kinds" role="group" data-i18n-al="whereLabel" aria-label="Where the news comes from">
+      <button class="chip is-on" data-kind="all" data-i18n="kindAll">All sources</button>
+      <button class="chip" data-kind="website" data-i18n="kindWeb">Official website</button>
+      <button class="chip" data-kind="facebook" data-i18n="kindFb">Official Facebook</button>
+      <button class="chip" data-kind="manual" data-i18n="kindManual">Added by hand</button>
+    </div>
+
+    <div class="row">
+      <label class="pick grow">
+        <span class="vh" data-i18n="sourceLabel">Source</span>
+        <select id="source"></select>
+      </label>
+      <label class="check">
+        <input id="cs" type="checkbox">
+        <span data-i18n="csOnly">Computer science only</span>
+      </label>
+    </div>
+  </div>
+</nav>
+
+<main class="wrap">
+  <p class="count" id="count" role="status"></p>
+  <ol class="list" id="list"></ol>
+  <p class="empty" id="empty" hidden data-i18n="empty">Nothing matches those filters.</p>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <h2 data-i18n="sourcesHead">Where this comes from</h2>
+    <ul class="srclist" id="srclist"></ul>
+    <p class="note" data-i18n="note">
+      This board only links to the original posts. Open the link to read the full story on the official site.
+    </p>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

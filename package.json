@@ -1,0 +1,15 @@
+{
+  "name": "kmitl-cs-news-board",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A plain news board that collects KMITL computer-science news from the official website and official Facebook pages.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "update": "node scripts/aggregate.mjs",
+    "update:fast": "node scripts/aggregate.mjs --no-detail",
+    "start": "node scripts/serve.mjs"
+  }
+}
