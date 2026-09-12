@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T05:42:34.051Z",
+  "generatedAt": "2026-09-12T05:29:13.112Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 1887
+      "ms": 2485
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 907
+      "ms": 2231
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 6261
+      "ms": 2336
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 3095
+      "ms": 507
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 3306
+      "ms": 521
     },
     {
       "id": "fb-kmitl",
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "141xfwv",
+      "title": "สจล. สรุปผลการดำเนินโครงการ “HUB OF TALENT”",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-%E2%80%9Chub-talent%E2%80%9D",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-10T08:02:30.000Z",
+      "cs": false
+    },
     {
       "id": "2u0kaa",
       "title": "สจล. ขอแสดงความยินดีกับเหล่านักสร้างสรรค์ธุรกิจรุ่นใหม่",
@@ -262,20 +276,6 @@
       "image": null,
       "summary": null,
       "date": "2026-09-04T07:43:33.000Z",
-      "cs": false
-    },
-    {
-      "id": "5k7zfv",
-      "title": "“ล่องท่า พาเพลิน” ล่องเรือ เรียนรู้ เปิดมุมมองใหม่ไปกับ Learning Space!",
-      "url": "https://www.kmitl.ac.th/article/%E2%80%9C%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%B2-%E0%B8%9E%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B8%99%E2%80%9D-%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B8%AD-%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A1%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B8%B1%E0%B8%9A-learning-space",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-03T04:19:48.000Z",
       "cs": false
     },
     {
