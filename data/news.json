@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T05:56:46.623Z",
+  "generatedAt": "2026-09-15T05:57:43.019Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2208
+      "ms": 3241
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1155
+      "ms": 1408
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 5474
+      "ms": 2229
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2295
+      "ms": 437
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2369
+      "ms": 270
     },
     {
       "id": "fb-kmitl",
@@ -68,6 +68,76 @@
     }
   ],
   "items": [
+    {
+      "id": "aqt8n9",
+      "title": "พิธีรับพระราชทานเครื่องราชอิสริยาภรณ์",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-15T03:04:00.000Z",
+      "cs": false
+    },
+    {
+      "id": "nd7kgr",
+      "title": "คณะเทคโนโลยีนวัตกรรมบูรณาการ เปิดรับสมัคร TCAS 70 รอบ 1",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3-tcas-70-%E0%B8%A3%E0%B8%AD%E0%B8%9A-1",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-15T02:56:10.000Z",
+      "cs": false
+    },
+    {
+      "id": "1yalac5",
+      "title": "คณะไอทีลาดกระบัง จัดอบรม “Generative AI for Educators” เสริมทักษะครูมัธยม ประยุกต์ใช้ AI ยกระดับการจัดการเรียนรู้",
+      "url": "https://www.it.kmitl.ac.th/th/posts/khnaaithiladokrabang-chadobrom-generative-ai-for-educators-serimthaksakhrumathym-prayuktchai-ai-ykradabkanchadkanrianru",
+      "sourceId": "it-event",
+      "source": "Faculty of IT (KMITL) — Event News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
+      "kind": "website",
+      "category": "ข่าวกิจกรรม/เหตุการณ์",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%259E%25E0%25B8%259B%25E0%25B8%2581%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B9%2587%25E0%25B8%259B-900x450.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-09-14T09:23:45.443Z",
+      "cs": true
+    },
+    {
+      "id": "daw1wy",
+      "title": "“From Lab to Life” เมื่อนวัตกรรมไม่ได้หยุดอยู่แค่ในห้องแล็บ",
+      "url": "https://www.kmitl.ac.th/article/%E2%80%9C-lab-life%E2%80%9D-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%87%E0%B8%9A",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-14T07:23:29.000Z",
+      "cs": false
+    },
+    {
+      "id": "1scwsuk",
+      "title": "เกษียณอย่างเกษม เพชรงามลาดกระบัง",
+      "url": "https://www.kmitl.ac.th/article/%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%B5%E0%B8%A2%E0%B8%93%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-14T06:55:43.000Z",
+      "cs": false
+    },
     {
       "id": "12iwa9d",
       "title": "CLICK UPDATE",
@@ -220,62 +290,6 @@
       "image": null,
       "summary": null,
       "date": "2026-09-05T06:51:37.000Z",
-      "cs": false
-    },
-    {
-      "id": "1nwvbh3",
-      "title": "วันที่ 4 “ลาดกระบังนิทรรศน์ 2569” สุดคึกคัก",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-4-%E2%80%9C%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%A8%E0%B8%99%E0%B9%8C-2569%E2%80%9D-%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%84%E0%B8%B6%E0%B8%81%E0%B8%84%E0%B8%B1%E0%B8%81",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-05T06:32:36.000Z",
-      "cs": false
-    },
-    {
-      "id": "1wf9yc9",
-      "title": "รมว.พม. เยี่ยมชมนวัตกรรม ในงานลาดกระบังนิทรรศน์ 2569",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%A3%E0%B8%A1%E0%B8%A7%E0%B8%9E%E0%B8%A1-%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%8A%E0%B8%A1%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1-%E0%B9%83%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%A8%E0%B8%99%E0%B9%8C-2569",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-05T06:27:26.000Z",
-      "cs": false
-    },
-    {
-      "id": "ql69p8",
-      "title": "ประกาศผลการแข่งขัน KMITL–AIRBUS LANDING CHALLENGE 2026",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%82%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B8%99-kmitl%E2%80%93airbus-landing-challenge-2026",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-05T06:24:15.000Z",
-      "cs": false
-    },
-    {
-      "id": "69cm3z",
-      "title": "เกษตรอินทรีย์",
-      "url": "https://www.kmitl.ac.th/article/%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-05T06:22:06.000Z",
       "cs": false
     },
     {
@@ -613,20 +627,6 @@
       "summary": null,
       "date": "2026-05-12T08:18:21.395Z",
       "cs": true
-    },
-    {
-      "id": "gmsb3d",
-      "title": "ภาพบรรยากาศ ITCAMP ครั้งที่ 22 | “The Auspicious Jamboree\"",
-      "url": "https://www.it.kmitl.ac.th/th/posts/phaphbayakas-itcamp-khrangthi-22-the-auspicious-jamboree",
-      "sourceId": "it-event",
-      "source": "Faculty of IT (KMITL) — Event News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
-      "kind": "website",
-      "category": "ข่าวกิจกรรม/เหตุการณ์",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%259E%25E0%25B8%259B%25E0%25B8%2581%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B9%2587%25E0%25B8%259B%25E0%25B9%2584%25E0%25B8%258B%25E0%25B8%2595%25E0%25B9%258C%2520copy-4-900x450.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-05-04T03:47:10.744Z",
-      "cs": false
     },
     {
       "id": "1aayv3g",
