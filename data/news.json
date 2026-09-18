@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T05:53:59.965Z",
+  "generatedAt": "2026-09-18T05:39:26.847Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2034
+      "ms": 3002
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1621
+      "ms": 1382
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 5723
+      "ms": 4154
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2478
+      "ms": 538
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2562
+      "ms": 609
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,66 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 1
+      "ms": 0
     }
   ],
   "items": [
+    {
+      "id": "174e7q9",
+      "title": "อาจารย์คณะไอทีลาดกระบัง เข้ารับพระราชทานเครื่องราชอิสริยาภรณ์เบื้องหน้าพระบรมฉายาลักษณ์พระบาทสมเด็จพระเจ้าอยู่หัว",
+      "url": "https://www.it.kmitl.ac.th/th/posts/acharykhnaaithiladokrabang-khearabphrarachthankheruengrachosriyaphrnbeongnaphrabromchaialaksnphrabathsmduchphracheayuhua",
+      "sourceId": "it-event",
+      "source": "Faculty of IT (KMITL) — Event News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
+      "kind": "website",
+      "category": "ข่าวกิจกรรม/เหตุการณ์",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F809736313_1762854491527636_1243014933096220560_n-900x588.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-09-18T03:40:01.662Z",
+      "cs": true
+    },
+    {
+      "id": "607ngw",
+      "title": "คณะไอทีลาดกระบัง ศึกษาดูงาน 2 แห่ง ณ มหาวิทยาลัยมหิดล แลกเปลี่ยนแนวทาง AUN และการประกันคุณภาพ ยกระดับการดำเนินงานสู่ความเป็นเลิศ",
+      "url": "https://www.it.kmitl.ac.th/th/posts/khnaaithiladokrabang-sueksadungan-2-haeng-n-mahawithyalaimhidl-laekpeliyonnaewthang-aun-laekanprakankhunphaph-ykradabkandamnoenngansukhwampunloes",
+      "sourceId": "it-event",
+      "source": "Faculty of IT (KMITL) — Event News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
+      "kind": "website",
+      "category": "ข่าวกิจกรรม/เหตุการณ์",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F809544118_1089711653694125_8980400454955088080_n-900x494.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-09-18T03:38:13.230Z",
+      "cs": true
+    },
+    {
+      "id": "13gp8sx",
+      "title": "พิธีสักการะอนุสาวรีย์ศาสตราจารย์ ดร.พงศ์ศักดิ์ วรสุนทโรสถ",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%8C-%E0%B8%94%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A7%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B9%82%E0%B8%A3%E0%B8%AA%E0%B8%96",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-17T08:29:02.000Z",
+      "cs": false
+    },
+    {
+      "id": "e2t3ph",
+      "title": "สจล. ผนึกกำลัง ม.แม่ฟ้าหลวง ดัน \"เชียงราย\" ผงาดเวทีโลก! คว้ารางวัลสุดยอดเมืองสีเขียว",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%9C%E0%B8%99%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87-%E0%B8%A1%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87-%E0%B8%94%E0%B8%B1%E0%B8%99-%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2-%E0%B8%9C%E0%B8%87%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B9%82%E0%B8%A5%E0%B8%81-%E0%B8%84%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%A7",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-17T08:07:44.000Z",
+      "cs": false
+    },
     {
       "id": "10rkonj",
       "title": "แถลงข่าวเปิดตัวโครงการ “Thailand Festival Data Intelligence for Festival Economy”",
@@ -248,34 +304,6 @@
       "image": null,
       "summary": null,
       "date": "2026-09-06T05:51:34.000Z",
-      "cs": false
-    },
-    {
-      "id": "638d1x",
-      "title": "วันที่ 5 “ลาดกระบังนิทรรศน์ 2569”",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-5-%E2%80%9C%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B8%A3%E0%B8%A3%E0%B8%A8%E0%B8%99%E0%B9%8C-2569%E2%80%9D",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-05T07:35:36.000Z",
-      "cs": false
-    },
-    {
-      "id": "vfxzgt",
-      "title": "บ้านบนดวงจันทร์",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%99%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-05T07:09:31.000Z",
       "cs": false
     },
     {
@@ -601,34 +629,6 @@
       "cs": false
     },
     {
-      "id": "uzkz40",
-      "title": "Temasek Polytechnic – School of Informatics & IT, Singapore เข้าเยี่ยมชมคณะไอทีลาดกระบัง",
-      "url": "https://www.it.kmitl.ac.th/th/posts/temasek-polytechnic-school-of-informatics-it-singapore-kheayiyomchmkhnaaithiladokrabang",
-      "sourceId": "it-event",
-      "source": "Faculty of IT (KMITL) — Event News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
-      "kind": "website",
-      "category": "ข่าวกิจกรรม/เหตุการณ์",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%259E%25E0%25B8%259B%25E0%25B8%2581%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B9%2587%25E0%25B8%259B%25E0%25B9%2584%25E0%25B8%258B%25E0%25B8%2595%25E0%25B9%258C-3-900x450.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-05-12T08:18:21.395Z",
-      "cs": true
-    },
-    {
-      "id": "gmsb3d",
-      "title": "ภาพบรรยากาศ ITCAMP ครั้งที่ 22 | “The Auspicious Jamboree\"",
-      "url": "https://www.it.kmitl.ac.th/th/posts/phaphbayakas-itcamp-khrangthi-22-the-auspicious-jamboree",
-      "sourceId": "it-event",
-      "source": "Faculty of IT (KMITL) — Event News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
-      "kind": "website",
-      "category": "ข่าวกิจกรรม/เหตุการณ์",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%259E%25E0%25B8%259B%25E0%25B8%2581%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B9%2587%25E0%25B8%259B%25E0%25B9%2584%25E0%25B8%258B%25E0%25B8%2595%25E0%25B9%258C%2520copy-4-900x450.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-05-04T03:47:10.744Z",
-      "cs": false
-    },
-    {
       "id": "1aayv3g",
       "title": "3 รางวัล จากการแข่งขัน GLOBAL GAME JAM ANTDPUJAM-SITE",
       "url": "https://www.it.kmitl.ac.th/th/posts/3-rangual-chakkankhaengkhan-global-game-jam-antdpujam-site",
@@ -951,20 +951,6 @@
       "cs": false
     },
     {
-      "id": "ifsx2z",
-      "title": "ลอยกระทงปีนี้ มาลอยกระทงน้ำแข็ง รักษ์สิ่งแวดล้อมกัน",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%87%E0%B8%9B%E0%B8%B5%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A7%E0%B8%94%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%99",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Water",
-      "image": null,
-      "summary": null,
-      "date": "2024-11-15T06:25:12.000Z",
-      "cs": false
-    },
-    {
       "id": "49d7zl",
       "title": "ขอเชิญร่วมฟัง IT Special Talk Series หัวข้อ “Thai Large Language Model",
       "url": "https://www.it.kmitl.ac.th/th/posts/%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%9F%E0%B8%B1%E0%B8%87-it-special-talk-series-%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%89%E0%B8%AD",
@@ -1262,6 +1248,20 @@
       "id": "e48ej9",
       "title": "U.S. Food Export Compliance Forum 2026",
       "url": "https://www.kmitl.ac.th/event/us-food-export-compliance-forum-2026",
+      "sourceId": "kmitl-home",
+      "source": "KMITL Official Website — Highlights",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
+      "kind": "website",
+      "category": null,
+      "image": null,
+      "summary": null,
+      "date": null,
+      "cs": false
+    },
+    {
+      "id": "7v5vn4",
+      "title": "พิธีทำบุญอุทิศถวายเป็นพระราชกุศล และวางพวงมาลาถวายราชสักการะ ร.4",
+      "url": "https://www.kmitl.ac.th/event/%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B4%E0%B8%A8%E0%B8%96%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A8%E0%B8%A5-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%96%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B0-%E0%B8%A34",
       "sourceId": "kmitl-home",
       "source": "KMITL Official Website — Highlights",
       "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
