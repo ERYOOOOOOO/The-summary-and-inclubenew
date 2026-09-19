@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T05:39:26.847Z",
+  "generatedAt": "2026-09-19T05:34:33.707Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 3002
+      "ms": 3216
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1382
+      "ms": 904
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 4154
+      "ms": 4103
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 538
+      "ms": 692
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 609
+      "ms": 1254
     },
     {
       "id": "fb-kmitl",
@@ -69,9 +69,51 @@
   ],
   "items": [
     {
-      "id": "174e7q9",
+      "id": "k6on6x",
+      "title": "รางวัลรองชนะเลิศอันดับ 2 เวทีวิจัยระดับชาติ “ทองกวาววิชาการ’69”",
+      "url": "https://www.it.kmitl.ac.th/th/posts/2-nd-runner-up-award-at-the-national-research-forum-thongkwao-academic-69",
+      "sourceId": "it-awards",
+      "source": "Faculty of IT (KMITL) — Awards News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
+      "kind": "website",
+      "category": "ข่าวรางวัล/ผลงาน",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_%25E0%25B9%2581%25E0%25B8%25AA%25E0%25B8%2594%25E0%25B8%2587%25E0%25B8%2584%25E0%25B8%25A7%25E0%25B8%25B2%25E0%25B8%25A1%25E0%25B8%25A2%25E0%25B8%25B4%25E0%25B8%2599%25E0%25B8%2594%25E0%25B8%25B5%2520%25E0%25B8%25A3%25E0%25B8%25B2%25E0%25B8%2587%25E0%25B8%25A7%25E0%25B8%25B1%25E0%25B8%25A5%25E0%25B8%25A3%25E0%25B8%25AD%25E0%25B8%2587%25E0%25B8%258A%25E0%25B8%2599%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%25A5%25E0%25B8%25B4%25E0%25B8%25A8%2520%25E0%25B8%25AD%25E0%25B8%25B1%25E0%25B8%2599%25E0%25B8%2594%25E0%25B8%25B1%25E0%25B8%259A-900x600.png&w=750&q=75",
+      "summary": null,
+      "date": "2026-09-18T08:38:51.466Z",
+      "cs": false
+    },
+    {
+      "id": "9zq9yq",
+      "title": "รางวัลชนะเลิศ Google Securing Digital Trust 2026",
+      "url": "https://www.it.kmitl.ac.th/th/posts/rangualchnaloes-google-securing-digital-trust-2026",
+      "sourceId": "it-awards",
+      "source": "Faculty of IT (KMITL) — Awards News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
+      "kind": "website",
+      "category": "ข่าวรางวัล/ผลงาน",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_%25E0%25B8%258A%25E0%25B8%2599%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%25A5%25E0%25B8%25B4%25E0%25B8%25A8%2520Google%2520Securing%2520Digital%2520Trust-900x600.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-09-18T07:27:03.003Z",
+      "cs": false
+    },
+    {
+      "id": "es9bp",
+      "title": "สจล. จัดสัมมนา “U.S. Food Export Compliance Forum 2026”",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B2-%E2%80%9Cus-food-export-compliance-forum-2026%E2%80%9D",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-18T07:03:46.000Z",
+      "cs": false
+    },
+    {
+      "id": "1rqd58i",
       "title": "อาจารย์คณะไอทีลาดกระบัง เข้ารับพระราชทานเครื่องราชอิสริยาภรณ์เบื้องหน้าพระบรมฉายาลักษณ์พระบาทสมเด็จพระเจ้าอยู่หัว",
-      "url": "https://www.it.kmitl.ac.th/th/posts/acharykhnaaithiladokrabang-khearabphrarachthankheruengrachosriyaphrnbeongnaphrabromchaialaksnphrabathsmduchphracheayuhua",
+      "url": "https://www.it.kmitl.ac.th/th/posts/it-professors-receive-royal-decorations-in-front-of-the-portrait-of-his-majesty-the-king",
       "sourceId": "it-event",
       "source": "Faculty of IT (KMITL) — Event News",
       "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
@@ -83,9 +125,9 @@
       "cs": true
     },
     {
-      "id": "607ngw",
+      "id": "19b5b89",
       "title": "คณะไอทีลาดกระบัง ศึกษาดูงาน 2 แห่ง ณ มหาวิทยาลัยมหิดล แลกเปลี่ยนแนวทาง AUN และการประกันคุณภาพ ยกระดับการดำเนินงานสู่ความเป็นเลิศ",
-      "url": "https://www.it.kmitl.ac.th/th/posts/khnaaithiladokrabang-sueksadungan-2-haeng-n-mahawithyalaimhidl-laekpeliyonnaewthang-aun-laekanprakankhunphaph-ykradabkandamnoenngansukhwampunloes",
+      "url": "https://www.it.kmitl.ac.th/th/posts/school-of-information-technology-kmitl-studies-work-at-2-places-at-mahidol-university-exchange-aun-approaches-and-quality-assurance-to-elevate-operations-towards-excellence",
       "sourceId": "it-event",
       "source": "Faculty of IT (KMITL) — Event News",
       "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
@@ -165,6 +207,20 @@
       "summary": null,
       "date": "2026-09-15T02:56:10.000Z",
       "cs": false
+    },
+    {
+      "id": "1f0onso",
+      "title": "คณะไอทีลาดกระบัง จัดอบรม “Generative AI for Educators” เสริมทักษะครูมัธยม ประยุกต์ใช้ AI ยกระดับการจัดการเรียนรู้",
+      "url": "https://www.it.kmitl.ac.th/th/posts/school-of-information-technology-kmitl-conducts-training-generative-ai-for-educators-to-enhance-secondary-teachers-skills-in-applying-ai-to-elevate-learning-management",
+      "sourceId": "it-event",
+      "source": "Faculty of IT (KMITL) — Event News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
+      "kind": "website",
+      "category": "ข่าวกิจกรรม/เหตุการณ์",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%259E%25E0%25B8%259B%25E0%25B8%2581%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B9%2587%25E0%25B8%259B-900x450.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-09-14T09:23:45.443Z",
+      "cs": true
     },
     {
       "id": "daw1wy",
@@ -293,23 +349,9 @@
       "cs": true
     },
     {
-      "id": "9f3c3u",
-      "title": "Day6",
-      "url": "https://www.kmitl.ac.th/article/day6",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-06T05:51:34.000Z",
-      "cs": false
-    },
-    {
-      "id": "aqac9g",
+      "id": "1b6ti8s",
       "title": "นักศึกษาคณะเทคโนโลยีสารสนเทศ สจล. ผนึกกำลังทีมสหสาขาวิชา คว้ารางวัลชนะเลิศ HacKaTech 2026",
-      "url": "https://www.it.kmitl.ac.th/th/posts/naksueksakhnathekhnoloisarsonthes-schl-phnuekkamlangthimshsakhaocha-khuaarangualchnaloes-hackatech-2026",
+      "url": "https://www.it.kmitl.ac.th/th/posts/school-of-information-technology-kmitl-students-join-forces-with-an-interdisciplinary-team-to-win-the-hackatech-2026-championship",
       "sourceId": "it-awards",
       "source": "Faculty of IT (KMITL) — Awards News",
       "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
@@ -601,20 +643,6 @@
       "cs": true
     },
     {
-      "id": "19uvtyn",
-      "title": "บรรยากาศการสอบสัมภาษณ์คัดเลือกบุคคลเข้าศึกษาต่อระดับบัณฑิตศึกษา และทุนอุดหนุนการศึกษา ภาคเรียนที่ 1/2569",
-      "url": "https://www.it.kmitl.ac.th/th/posts/bayakaskansobsamphasnkhadluekbukhkhlkheasueksatoradabbanthtsueksa-laethunodhnunkansueksa-phakhrianthi-12569",
-      "sourceId": "it-event",
-      "source": "Faculty of IT (KMITL) — Event News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
-      "kind": "website",
-      "category": "ข่าวกิจกรรม/เหตุการณ์",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F20260523_084254-900x675.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-05-23T05:11:17.544Z",
-      "cs": false
-    },
-    {
       "id": "e5t3v1",
       "title": "รองชนะเลิศอันดับ 1 ในการแข่งขัน Huawei ICT Competition 2025–2026 ระดับภูมิภาคเอเชียแปซิฟิก",
       "url": "https://www.it.kmitl.ac.th/th/posts/rongchnaloesondab-1-naikankhaengkhan-huawei-ict-competition-20252026-radabphmiphakhechiapaesifik",
@@ -767,34 +795,6 @@
       "summary": null,
       "date": "2025-10-03T07:45:56.746Z",
       "cs": true
-    },
-    {
-      "id": "xm0xr9",
-      "title": "รางวัลชนะเลิศ จากการแข่งขัน “OIC InsurTech Award 2025”",
-      "url": "https://www.it.kmitl.ac.th/th/posts/first-prize-winner-from-the-oic-insurtech-award-2025-competition",
-      "sourceId": "it-awards",
-      "source": "Faculty of IT (KMITL) — Awards News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
-      "kind": "website",
-      "category": "ข่าวรางวัล/ผลงาน",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867pix_%25E0%25B8%258A%25E0%25B8%2599%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%25A5%25E0%25B8%25B4%25E0%25B8%25A8%2520%25E0%25B8%2581%25E0%25B8%25B2%25E0%25B8%25A3%25E0%25B9%2581%25E0%25B8%2582%25E0%25B9%2588%25E0%25B8%2587%25E0%25B8%2582%25E0%25B8%25B1%25E0%25B8%2599%2520%25E2%2580%259COIC%2520InsurTech%2520Award%25202025%25E2%2580%259D-1-900x600.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2025-10-01T03:38:32.611Z",
-      "cs": false
-    },
-    {
-      "id": "1af3xb0",
-      "title": "รางวัลชนะเลิศ สาขา Best Tourism Idea จากการแข่งขัน ReTourism Lab",
-      "url": "https://www.it.kmitl.ac.th/th/posts/first-prize-in-the-best-tourism-idea-category-from-the-retourism-lab-competition",
-      "sourceId": "it-awards",
-      "source": "Faculty of IT (KMITL) — Awards News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
-      "kind": "website",
-      "category": "ข่าวรางวัล/ผลงาน",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867pix_Award_%25E0%25B8%25A3%25E0%25B8%25B2%25E0%25B8%2587%25E0%25B8%25A7%25E0%25B8%25B1%25E0%25B8%25A5%25E0%25B8%258A%25E0%25B8%2599%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%25A5%25E0%25B8%25B4%25E0%25B8%25A8%2520Best%2520Tourism%2520Idea-900x600.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2025-09-30T10:50:47.055Z",
-      "cs": false
     },
     {
       "id": "52k0l",
