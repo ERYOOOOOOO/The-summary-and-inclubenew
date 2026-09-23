@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T05:56:34.649Z",
+  "generatedAt": "2026-09-23T05:39:38.625Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2236
+      "ms": 3061
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1691
+      "ms": 1904
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 8470
+      "ms": 2334
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2719
+      "ms": 750
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2880
+      "ms": 925
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,24 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 1
+      "ms": 0
     }
   ],
   "items": [
+    {
+      "id": "2xawxl",
+      "title": "รางวัลชนะเลิศ BDI Young Innovator Hackathon 2026 รับถ้วยพระราชทานฯ",
+      "url": "https://www.it.kmitl.ac.th/th/posts/rangualchnaloes-bdi-young-innovator-hackathon-2026-rabthwyphrarachthan",
+      "sourceId": "it-awards",
+      "source": "Faculty of IT (KMITL) — Awards News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
+      "kind": "website",
+      "category": "ข่าวรางวัล/ผลงาน",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_%25E0%25B8%258A%25E0%25B8%2599%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%25A5%25E0%25B8%25B4%25E0%25B8%25A8%2520BDI%2520Young%2520Innovator%2520Hackathon%25202026-900x600.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-09-22T09:28:58.134Z",
+      "cs": true
+    },
     {
       "id": "15y2y6z",
       "title": "รางวัลชนะเลิศ NTU Hackathon: Innovating Functional Recovery 2026",
@@ -77,7 +91,7 @@
       "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
       "kind": "website",
       "category": "ข่าวรางวัล/ผลงาน",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_%25E0%25B8%258A%25E0%25B8%2599%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%25A5%25E0%25B8%25B4%25E0%25B8%25A8%2520-%2520NTU%2520Hackathon%2520Innovating%2520Functional%2520Recovery%25202026-900x600.jpg&w=750&q=75",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_%25E0%25B8%258A%25E0%25B8%2599%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%25A5%25E0%25B8%25B4%25E0%25B8%25A8%2520-%2520NTU%2520Hackathon%2520Innovating%2520Functional%2520Recovery%25202026-1-900x600.jpg&w=750&q=75",
       "summary": null,
       "date": "2026-09-22T02:07:37.936Z",
       "cs": true
@@ -95,6 +109,20 @@
       "summary": null,
       "date": "2026-09-21T09:54:42.468Z",
       "cs": true
+    },
+    {
+      "id": "1w3ijyk",
+      "title": "สจล. ร่วมขับเคลื่อนการอนุรักษ์คูคลอง",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%82%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%84%E0%B8%B9%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-21T06:57:27.000Z",
+      "cs": false
     },
     {
       "id": "k6on6x",
@@ -318,20 +346,6 @@
       "image": null,
       "summary": null,
       "date": "2026-09-10T04:02:27.000Z",
-      "cs": false
-    },
-    {
-      "id": "1s193h9",
-      "title": "สจล. ขอแสดงความยินดีกับเหล่านักนวัตกรรมด้านการพยาบาล",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%82%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-09T08:14:31.000Z",
       "cs": false
     },
     {
@@ -767,20 +781,6 @@
       "summary": null,
       "date": "2026-01-26T04:59:40.934Z",
       "cs": false
-    },
-    {
-      "id": "1xeili8",
-      "title": "นศ.ไอทีลาดกระบังคว้ารางวัลชนะเลิศ พร้อมกับอีก 4 รางวัล จาก Huawei National ICT Competition 2025–2026 ระดับประเทศ",
-      "url": "https://www.it.kmitl.ac.th/th/posts/it-students-from-ladkrabang-win-first-prize-along-with-4-other-awards-from-huawei-national-ict-competition-20252026-at-the-national-level",
-      "sourceId": "it-awards",
-      "source": "Faculty of IT (KMITL) — Awards News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
-      "kind": "website",
-      "category": "ข่าวรางวัล/ผลงาน",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867pix_Award_%25E0%25B8%25A3%25E0%25B8%25B2%25E0%25B8%2587%25E0%25B8%25A7%25E0%25B8%25B1%25E0%25B8%25A5%2520huawei-900x600.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-01-15T04:31:57.658Z",
-      "cs": true
     },
     {
       "id": "1kgmjfw",
