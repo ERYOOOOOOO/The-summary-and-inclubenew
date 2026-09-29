@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T06:29:14.751Z",
+  "generatedAt": "2026-09-29T06:41:16.669Z",
   "itemCount": 32,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 1530
+      "ms": 2603
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1166
+      "ms": 1409
     },
     {
       "id": "it-event",
@@ -64,10 +64,66 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 1
+      "ms": 2
     }
   ],
   "items": [
+    {
+      "id": "1olli4o",
+      "title": "รมว.ทรัพยากรฯ พร้อม ผู้ว่าฯ กทม. ลงพื้นที่ศูนย์พักพิง สจล. ติดตามสถานการณ์น้ำท่วม ให้กำลังใจผู้ประสบภัยและทีมช่วยเหลือ",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%A3%E0%B8%A1%E0%B8%A7%E0%B8%97%E0%B8%A3%E0%B8%B1%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%AF-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1-%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%AF-%E0%B8%81%E0%B8%97%E0%B8%A1-%E0%B8%A5%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%87-%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%97%E0%B9%88%E0%B8%A7%E0%B8%A1",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-29T01:22:31.000Z",
+      "cs": false
+    },
+    {
+      "id": "upavln",
+      "title": "​ สจล. รวมใจ ช่วยภัยน้ำท่วม",
+      "url": "https://www.kmitl.ac.th/article/%E2%80%8B-%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%83%E0%B8%88-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%97%E0%B9%88%E0%B8%A7%E0%B8%A1",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-29T01:11:47.000Z",
+      "cs": false
+    },
+    {
+      "id": "8h8cng",
+      "title": "รมต.อว.เยี่ยมชมศูนย์ บภค.สจล.",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%A3%E0%B8%A1%E0%B8%95%E0%B8%AD%E0%B8%A7%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%8A%E0%B8%A1%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%9A%E0%B8%A0%E0%B8%84%E0%B8%AA%E0%B8%88%E0%B8%A5",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-29T01:07:29.000Z",
+      "cs": false
+    },
+    {
+      "id": "1uqlw21",
+      "title": "ประกาศ",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8-1",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-29T00:57:12.000Z",
+      "cs": false
+    },
     {
       "id": "1w3ijyk",
       "title": "สจล. ร่วมขับเคลื่อนการอนุรักษ์คูคลอง",
@@ -178,62 +234,6 @@
       "image": null,
       "summary": null,
       "date": "2026-09-14T07:23:29.000Z",
-      "cs": false
-    },
-    {
-      "id": "1scwsuk",
-      "title": "เกษียณอย่างเกษม เพชรงามลาดกระบัง",
-      "url": "https://www.kmitl.ac.th/article/%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%B5%E0%B8%A2%E0%B8%93%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%A1-%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-14T06:55:43.000Z",
-      "cs": false
-    },
-    {
-      "id": "12iwa9d",
-      "title": "CLICK UPDATE",
-      "url": "https://www.kmitl.ac.th/article/click-update-0",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-14T03:44:03.000Z",
-      "cs": false
-    },
-    {
-      "id": "141xfwv",
-      "title": "สจล. สรุปผลการดำเนินโครงการ “HUB OF TALENT”",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3-%E2%80%9Chub-talent%E2%80%9D",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-10T08:02:30.000Z",
-      "cs": false
-    },
-    {
-      "id": "2u0kaa",
-      "title": "สจล. ขอแสดงความยินดีกับเหล่านักสร้างสรรค์ธุรกิจรุ่นใหม่",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%82%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C%E0%B8%98%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-10T04:02:27.000Z",
       "cs": false
     },
     {
