@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T06:41:16.669Z",
+  "generatedAt": "2026-09-30T06:26:18.246Z",
   "itemCount": 32,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2603
+      "ms": 2265
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1409
+      "ms": 1280
     },
     {
       "id": "it-event",
@@ -64,10 +64,52 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 2
+      "ms": 0
     }
   ],
   "items": [
+    {
+      "id": "5ygdra",
+      "title": "แนวทางการดำเนินงาน 30 ก.ย. - 4 ต.ค. 2569",
+      "url": "https://www.kmitl.ac.th/article/%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%B4%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99-30-%E0%B8%81%E0%B8%A2-4-%E0%B8%95%E0%B8%84-2569",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-29T06:13:06.000Z",
+      "cs": false
+    },
+    {
+      "id": "16ltedz",
+      "title": "อธิบดีกรมสุขภาพจิต เยี่ยมชมศูนย์ บภค. สจล.",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AD%E0%B8%98%E0%B8%B4%E0%B8%9A%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%88%E0%B8%B4%E0%B8%95-%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%8A%E0%B8%A1%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-%E0%B8%9A%E0%B8%A0%E0%B8%84-%E0%B8%AA%E0%B8%88%E0%B8%A5",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-29T06:08:25.000Z",
+      "cs": false
+    },
+    {
+      "id": "l1sp7c",
+      "title": "สจล. เปิดจุดรับบริจาคช่วยเหลือผู้ประสบภัยน้ำท่วม",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%88%E0%B8%B8%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%88%E0%B8%B2%E0%B8%84%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%A0%E0%B8%B1%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%97%E0%B9%88%E0%B8%A7%E0%B8%A1",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-09-29T05:35:28.000Z",
+      "cs": false
+    },
     {
       "id": "1olli4o",
       "title": "รมว.ทรัพยากรฯ พร้อม ผู้ว่าฯ กทม. ลงพื้นที่ศูนย์พักพิง สจล. ติดตามสถานการณ์น้ำท่วม ให้กำลังใจผู้ประสบภัยและทีมช่วยเหลือ",
@@ -192,48 +234,6 @@
       "image": null,
       "summary": null,
       "date": "2026-09-16T07:38:33.000Z",
-      "cs": false
-    },
-    {
-      "id": "aqt8n9",
-      "title": "พิธีรับพระราชทานเครื่องราชอิสริยาภรณ์",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%97%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AD%E0%B8%B4%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-15T03:04:00.000Z",
-      "cs": false
-    },
-    {
-      "id": "nd7kgr",
-      "title": "คณะเทคโนโลยีนวัตกรรมบูรณาการ เปิดรับสมัคร TCAS 70 รอบ 1",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3-tcas-70-%E0%B8%A3%E0%B8%AD%E0%B8%9A-1",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-15T02:56:10.000Z",
-      "cs": false
-    },
-    {
-      "id": "daw1wy",
-      "title": "“From Lab to Life” เมื่อนวัตกรรมไม่ได้หยุดอยู่แค่ในห้องแล็บ",
-      "url": "https://www.kmitl.ac.th/article/%E2%80%9C-lab-life%E2%80%9D-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AB%E0%B8%A2%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B9%87%E0%B8%9A",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-14T07:23:29.000Z",
       "cs": false
     },
     {
