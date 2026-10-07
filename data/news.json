@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T07:21:28.506Z",
+  "generatedAt": "2026-10-07T07:00:19.009Z",
   "itemCount": 85,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 3440
+      "ms": 6202
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 23,
-      "ms": 2132
+      "ms": 2198
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 6053
+      "ms": 1385
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2527
+      "ms": 468
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2696
+      "ms": 486
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,38 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 1
+      "ms": 2
     }
   ],
   "items": [
+    {
+      "id": "yb6gpq",
+      "title": "7 Inspirations",
+      "url": "https://www.kmitl.ac.th/article/7-inspirations-0",
+      "sourceId": "kmitl-home",
+      "source": "KMITL Official Website — Highlights",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
+      "kind": "website",
+      "category": "Health & Living",
+      "image": null,
+      "summary": null,
+      "date": "2026-10-06T09:00:45.000Z",
+      "cs": false
+    },
+    {
+      "id": "1fx45ql",
+      "title": "ประกาศวันที่ 5-9 ตุลาคม",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-5-9-%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%84%E0%B8%A1",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-10-03T02:45:44.000Z",
+      "cs": false
+    },
     {
       "id": "ys9y29",
       "title": "สจล. เสริมกำลังภารกิจช่วยเหลือประชาชนในพื้นที่ลาดกระบัง",
@@ -220,20 +248,6 @@
       "image": null,
       "summary": null,
       "date": "2026-09-29T01:07:29.000Z",
-      "cs": false
-    },
-    {
-      "id": "1uqlw21",
-      "title": "ประกาศ",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8-1",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-09-29T00:57:12.000Z",
       "cs": false
     },
     {
@@ -948,20 +962,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F18049-cover-900x600.jpg&w=750&q=75",
       "summary": null,
       "date": "2024-12-16T07:38:54.000Z",
-      "cs": false
-    },
-    {
-      "id": "ifsx2z",
-      "title": "ลอยกระทงปีนี้ มาลอยกระทงน้ำแข็ง รักษ์สิ่งแวดล้อมกัน",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%87%E0%B8%9B%E0%B8%B5%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87-%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A7%E0%B8%94%E0%B8%A5%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%81%E0%B8%B1%E0%B8%99",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Water",
-      "image": null,
-      "summary": null,
-      "date": "2024-11-15T06:25:12.000Z",
       "cs": false
     },
     {
