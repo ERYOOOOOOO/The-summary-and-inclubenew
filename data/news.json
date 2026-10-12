@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T06:55:24.240Z",
+  "generatedAt": "2026-10-12T07:05:30.833Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 10551
+      "ms": 2509
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1058
+      "ms": 1456
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2403
+      "ms": 3066
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 513
+      "ms": 483
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 512
+      "ms": 302
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,24 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 1
+      "ms": 3
     }
   ],
   "items": [
+    {
+      "id": "wnufsp",
+      "title": "คณะไอทีลาดกระบัง จัดกิจกรรม Special Talk ถ่ายทอดประสบการณ์การประยุกต์ใช้ Machine Learning ในการทำงานจริง",
+      "url": "https://www.it.kmitl.ac.th/th/posts/khnaaithiladokrabang-chadkichkam-special-talk-thaithodprasobkannkanprayuktchai-machine-learning-naikanthamnganchring",
+      "sourceId": "it-event",
+      "source": "Faculty of IT (KMITL) — Event News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
+      "kind": "website",
+      "category": "ข่าวกิจกรรม/เหตุการณ์",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F0U9A9969-900x600.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-10-12T05:43:59.136Z",
+      "cs": true
+    },
     {
       "id": "1x7l0pd",
       "title": "ตุลาคม 2569",
@@ -696,20 +710,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%259E%25E0%25B8%259B%25E0%25B8%2581%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B9%2587%25E0%25B8%259B%25E0%25B9%2584%25E0%25B8%258B%25E0%25B8%2595%25E0%25B9%258C%2520copy-5-900x450.jpg&w=750&q=75",
       "summary": null,
       "date": "2026-06-21T08:33:37.724Z",
-      "cs": true
-    },
-    {
-      "id": "c3lje2",
-      "title": "คณะเทคโนโลยีสารสนเทศ สจล. ร่วมพิธีบำเพ็ญพระราชกุศลถวายแด่ สมเด็จพระเจ้าลูกเธอ เจ้าฟ้าพัชรกิติยาภา นเรนทิราเทพยวดี กรมหลวงราชสาริณีสิริพัชร มหาวัชรราชธิดา",
-      "url": "https://www.it.kmitl.ac.th/th/posts/khnathekhnoloisarsonthes-schl-ruamphithibamphuyphrarachkuslthwaidae-somduchphrachealukthoe-cheafaphachrkitiyapha-nrenthirathephyuadi-kromhluangrachsarinsiriphachr-mahawachaachthda",
-      "sourceId": "it-event",
-      "source": "Faculty of IT (KMITL) — Event News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
-      "kind": "website",
-      "category": "ข่าวกิจกรรม/เหตุการณ์",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F_KXK8327-900x600.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-06-18T09:03:04.652Z",
       "cs": true
     },
     {
