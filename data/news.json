@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T05:56:07.965Z",
+  "generatedAt": "2026-10-15T05:40:55.293Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2198
+      "ms": 2443
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1053
+      "ms": 2384
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 5882
+      "ms": 2053
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2227
+      "ms": 521
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2486
+      "ms": 826
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,38 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 0
+      "ms": 2
     }
   ],
   "items": [
+    {
+      "id": "1a7cevi",
+      "title": "สจล. ประชุมหารือแนวทางการให้ความช่วยเหลือในสถานการณ์น้ำท่วม",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%97%E0%B9%88%E0%B8%A7%E0%B8%A1",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-10-14T13:18:47.000Z",
+      "cs": false
+    },
+    {
+      "id": "19te9nx",
+      "title": "รางวัลชนะเลิศจากเวที “CIIM NEXT GEN CREATORS 2026”",
+      "url": "https://www.it.kmitl.ac.th/th/posts/rangualchnaloeschakwethi-ciim-next-gen-creators-2026",
+      "sourceId": "it-awards",
+      "source": "Faculty of IT (KMITL) — Awards News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
+      "kind": "website",
+      "category": "ข่าวรางวัล/ผลงาน",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_%25E0%25B8%258A%25E0%25B8%2599%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%25A5%25E0%25B8%25B4%25E0%25B8%25A8%25E0%25B8%2588%25E0%25B8%25B2%25E0%25B8%2581%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B8%2597%25E0%25B8%25B5%2520CIIM%2520NEXT%2520GEN%2520CREATORS%25202026-900x600.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-10-14T10:25:25.127Z",
+      "cs": false
+    },
     {
       "id": "171z17f",
       "title": "KMITL BIG CLEANING DAY หลังวิกฤติน้ำท่วม",
@@ -262,20 +290,6 @@
       "image": null,
       "summary": null,
       "date": "2026-10-01T02:39:29.000Z",
-      "cs": false
-    },
-    {
-      "id": "qw962v",
-      "title": "สจล. ขอขอบคุณทุกน้ำใจ",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%82%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%83%E0%B8%88",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-01T00:16:54.000Z",
       "cs": false
     },
     {
@@ -797,20 +811,6 @@
       "cs": false
     },
     {
-      "id": "1rqr4qe",
-      "title": "รางวัลผู้ปฏิบัติการสหกิจศึกษาและการศึกษาเชิงบูรณาการกับการทำงานในสถานศึกษา ดีเด่นระดับสถาบัน ประจำปีงบประมาณ 2569",
-      "url": "https://www.it.kmitl.ac.th/th/posts/rangualphuptbatikanshkichsueksalaekansueksachoengburnakankabkanthamngannaisthansueksa-didenradabsthaban-prachampingobpraman-2569",
-      "sourceId": "it-awards",
-      "source": "Faculty of IT (KMITL) — Awards News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
-      "kind": "website",
-      "category": "ข่าวรางวัล/ผลงาน",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_%25E0%25B8%25A3%25E0%25B8%25B2%25E0%25B8%2587%25E0%25B8%25A7%25E0%25B8%25B1%25E0%25B8%25A5%25E0%25B8%25AA%25E0%25B8%25AB%25E0%25B8%2581%25E0%25B8%25B4%25E0%25B8%2588%25202569-2-900x600.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-02-02T09:33:30.015Z",
-      "cs": false
-    },
-    {
       "id": "1kgmjfw",
       "title": "สจล. ด่านช้างเทรล",
       "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%A5",
@@ -1259,9 +1259,9 @@
       "cs": false
     },
     {
-      "id": "7v5vn4",
-      "title": "พิธีทำบุญอุทิศถวายเป็นพระราชกุศล และวางพวงมาลาถวายราชสักการะ ร.4",
-      "url": "https://www.kmitl.ac.th/event/%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B4%E0%B8%A8%E0%B8%96%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B8%E0%B8%A8%E0%B8%A5-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%96%E0%B8%A7%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B0-%E0%B8%A34",
+      "id": "75miyn",
+      "title": "ขอเชิญร่วมพิธีบำเพ็ญกุศลเฉลิมพระเกียรติ ร.4",
+      "url": "https://www.kmitl.ac.th/event/%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%9A%E0%B8%B3%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%81%E0%B8%B8%E0%B8%A8%E0%B8%A5%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4-%E0%B8%A34",
       "sourceId": "kmitl-home",
       "source": "KMITL Official Website — Highlights",
       "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
