@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T05:33:42.520Z",
+  "generatedAt": "2026-10-19T05:53:36.084Z",
   "itemCount": 32,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2169
+      "ms": 6584
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 837
+      "ms": 3152
     },
     {
       "id": "it-event",
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "whosan",
+      "title": "โคเซ็นแห่ง สจล. เปิดรับสมัครนักเรียน",
+      "url": "https://www.kmitl.ac.th/article/%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87-%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-10-19T03:22:11.000Z",
+      "cs": false
+    },
     {
       "id": "1a7cevi",
       "title": "สจล. ประชุมหารือแนวทางการให้ความช่วยเหลือในสถานการณ์น้ำท่วม",
@@ -248,20 +262,6 @@
       "image": null,
       "summary": null,
       "date": "2026-10-01T03:47:55.000Z",
-      "cs": false
-    },
-    {
-      "id": "1su9epk",
-      "title": "สจล. ผนึกกำลัง SCGC นำนวัตกรรม “ทุ่นลอยน้ำ” ประยุกต์เป็นแพกู้ภัย ลุยช่วยผู้ประสบภัย ริมคลองประเวศบุรีรมย์",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%9C%E0%B8%99%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87-scgc-%E0%B8%99%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1-%E2%80%9C%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3%E2%80%9D-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%81%E0%B8%95%E0%B9%8C%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%9E%E0%B8%81%E0%B8%B9%E0%B9%89%E0%B8%A0%E0%B8%B1%E0%B8%A2-%E0%B8%A5%E0%B8%B8%E0%B8%A2%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%A0%E0%B8%B1%E0%B8%A2",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-01T02:39:29.000Z",
       "cs": false
     },
     {
@@ -489,9 +489,9 @@
       "cs": false
     },
     {
-      "id": "1jmky4d",
-      "title": "Update! “KMITL Calendar 1/2026”",
-      "url": "https://www.kmitl.ac.th/event/update-%E2%80%9Ckmitl-calendar-12026%E2%80%9D",
+      "id": "2qhwet",
+      "title": "KMITL MIND ROOM เปิดพื้นที่ปลอดภัย ดูแลใจนักศึกษา สจล.",
+      "url": "https://www.kmitl.ac.th/event/kmitl-mind-room-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2-%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B9%83%E0%B8%88%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2-%E0%B8%AA%E0%B8%88%E0%B8%A5",
       "sourceId": "kmitl-home",
       "source": "KMITL Official Website — Highlights",
       "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
