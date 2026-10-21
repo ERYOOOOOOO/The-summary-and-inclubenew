@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T05:45:03.252Z",
+  "generatedAt": "2026-10-21T05:49:06.566Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 1982
+      "ms": 2234
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 940
+      "ms": 1279
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 5602
+      "ms": 2284
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2265
+      "ms": 516
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2289
+      "ms": 513
     },
     {
       "id": "fb-kmitl",
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "fipqkz",
+      "title": "สจล. ผนึกกำลังการบินไทย ลงนาม MOU พัฒนาช่างอากาศยานสู่มาตรฐานสากล",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%9C%E0%B8%99%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B4%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%A5%E0%B8%87%E0%B8%99%E0%B8%B2%E0%B8%A1-mou-%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%8A%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%B2%E0%B8%81%E0%B8%A5",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-10-20T08:37:59.000Z",
+      "cs": false
+    },
     {
       "id": "whosan",
       "title": "โคเซ็นแห่ง สจล. เปิดรับสมัครนักเรียน",
@@ -276,20 +290,6 @@
       "image": null,
       "summary": null,
       "date": "2026-10-02T03:36:33.000Z",
-      "cs": false
-    },
-    {
-      "id": "85yrxs",
-      "title": "ขอบคุณบริษัท โอ สแควร์ ดิสทริบิวชั่น จำกัด ร่วมส่งมอบอาหาร ดูแลเพื่อนสี่ขาในศูนย์พักพิง",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%A9%E0%B8%B1%E0%B8%97-%E0%B9%82%E0%B8%AD-%E0%B8%AA%E0%B9%81%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%8C-%E0%B8%94%E0%B8%B4%E0%B8%AA%E0%B8%97%E0%B8%A3%E0%B8%B4%E0%B8%9A%E0%B8%B4%E0%B8%A7%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%88%E0%B8%B3%E0%B8%81%E0%B8%B1%E0%B8%94-%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%AD%E0%B8%9A%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3-%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%82%E0%B8%B2%E0%B9%83%E0%B8%99%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B8%9E%E0%B8%B4%E0%B8%87",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-01T03:47:55.000Z",
       "cs": false
     },
     {
@@ -1231,9 +1231,9 @@
       "cs": false
     },
     {
-      "id": "o7tocp",
-      "title": "KMITL BIG CLEANING DAY หลังวิกฤติน้ำท่วม",
-      "url": "https://www.kmitl.ac.th/event/kmitl-big-cleaning-day-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%A4%E0%B8%95%E0%B8%B4%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%97%E0%B9%88%E0%B8%A7%E0%B8%A1",
+      "id": "v47ofd",
+      "title": "KMITL DanChang Trail ปี 2",
+      "url": "https://www.kmitl.ac.th/event/kmitl-danchang-trail-%E0%B8%9B%E0%B8%B5-2",
       "sourceId": "kmitl-home",
       "source": "KMITL Official Website — Highlights",
       "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
