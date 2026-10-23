@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:51:49.167Z",
+  "generatedAt": "2026-10-23T05:50:12.596Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 3488
+      "ms": 2871
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1255
+      "ms": 1088
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 1948
+      "ms": 2115
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 566
+      "ms": 463
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 575
+      "ms": 461
     },
     {
       "id": "fb-kmitl",
@@ -68,6 +68,34 @@
     }
   ],
   "items": [
+    {
+      "id": "9rf8nj",
+      "title": "เปิดโฉมคฑากร KMITL KATAKORN 2026",
+      "url": "https://www.kmitl.ac.th/article/%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%82%E0%B8%89%E0%B8%A1%E0%B8%84%E0%B8%91%E0%B8%B2%E0%B8%81%E0%B8%A3-kmitl-katakorn-2026",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-10-22T07:13:03.000Z",
+      "cs": false
+    },
+    {
+      "id": "1o02ub5",
+      "title": "สจล. รวมพลังทันตแพทย์และพยาบาล ดูแลทุกยิ้ม ใส่ใจทุกสุขภาพ",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%A5-%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A2%E0%B8%B4%E0%B9%89%E0%B8%A1-%E0%B9%83%E0%B8%AA%E0%B9%88%E0%B9%83%E0%B8%88%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A0%E0%B8%B2%E0%B8%9E",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-10-22T07:08:53.000Z",
+      "cs": false
+    },
     {
       "id": "fipqkz",
       "title": "สจล. ผนึกกำลังการบินไทย ลงนาม MOU พัฒนาช่างอากาศยานสู่มาตรฐานสากล",
@@ -262,34 +290,6 @@
       "image": null,
       "summary": null,
       "date": "2026-10-06T09:00:45.000Z",
-      "cs": false
-    },
-    {
-      "id": "1fx45ql",
-      "title": "ประกาศวันที่ 5-9 ตุลาคม",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-5-9-%E0%B8%95%E0%B8%B8%E0%B8%A5%E0%B8%B2%E0%B8%84%E0%B8%A1",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-03T02:45:44.000Z",
-      "cs": false
-    },
-    {
-      "id": "ys9y29",
-      "title": "สจล. เสริมกำลังภารกิจช่วยเหลือประชาชนในพื้นที่ลาดกระบัง",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%8A%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-02T03:36:33.000Z",
       "cs": false
     },
     {
