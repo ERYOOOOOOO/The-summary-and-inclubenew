@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T05:49:07.020Z",
+  "generatedAt": "2026-10-26T05:51:46.016Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2475
+      "ms": 2132
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 856
+      "ms": 1008
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2549
+      "ms": 2532
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 587
+      "ms": 571
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 588
+      "ms": 911
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,24 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 0
+      "ms": 1
     }
   ],
   "items": [
+    {
+      "id": "t8y8x0",
+      "title": "รางวัลเหรียญเงิน “Super AI Engineer Season 6",
+      "url": "https://www.it.kmitl.ac.th/th/posts/rangualheriyyngoen-super-ai-engineer-season-6",
+      "sourceId": "it-awards",
+      "source": "Faculty of IT (KMITL) — Awards News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
+      "kind": "website",
+      "category": "ข่าวรางวัล/ผลงาน",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_%25E0%25B8%25A3%25E0%25B8%25B2%25E0%25B8%2587%25E0%25B8%25A7%25E0%25B8%25B1%25E0%25B8%25A5%25E0%25B9%2580%25E0%25B8%25AB%25E0%25B8%25A3%25E0%25B8%25B5%25E0%25B8%25A2%25E0%25B8%258D%25E0%25B9%2580%25E0%25B8%2587%25E0%25B8%25B4%25E0%25B8%2599%2520Super%2520AI%2520Engineer%2520Season%25206-1-900x600.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-10-26T05:25:38.088Z",
+      "cs": true
+    },
     {
       "id": "9rf8nj",
       "title": "เปิดโฉมคฑากร KMITL KATAKORN 2026",
@@ -794,20 +808,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_%25E0%25B8%25A3%25E0%25B8%25B2%25E0%25B8%2587%25E0%25B8%25A7%25E0%25B8%25B1%25E0%25B8%25A5%25E0%25B8%25AA%25E0%25B8%25AB%25E0%25B8%2581%25E0%25B8%25B4%25E0%25B8%2588%25202569-3-900x600.jpg&w=750&q=75",
       "summary": null,
       "date": "2026-02-02T10:40:32.518Z",
-      "cs": false
-    },
-    {
-      "id": "1j58rew",
-      "title": "รางวัลชนะเลิศผลงานสหกิจศึกษาและการศึกษาเชิงบูรณาการกับการทำงาน ด้านวิทยาศาสตร์และเทคโนโลยีดีเด่น ระดับสถาบัน ประจำปีงบประมาณ 2569",
-      "url": "https://www.it.kmitl.ac.th/th/posts/rangualchnaloesphlnganshkichsueksalaekansueksachoengburnakankabkanthamngan-danuathyasastrlaethekhnoloididen-radabsthaban-prachampingobpraman-2569",
-      "sourceId": "it-awards",
-      "source": "Faculty of IT (KMITL) — Awards News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
-      "kind": "website",
-      "category": "ข่าวรางวัล/ผลงาน",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_%25E0%25B8%25A3%25E0%25B8%25B2%25E0%25B8%2587%25E0%25B8%25A7%25E0%25B8%25B1%25E0%25B8%25A5%25E0%25B8%25AA%25E0%25B8%25AB%25E0%25B8%2581%25E0%25B8%25B4%25E0%25B8%2588%25202569-900x600.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-02-02T10:00:45.058Z",
       "cs": false
     },
     {
