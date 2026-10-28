@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:04:42.488Z",
+  "generatedAt": "2026-10-28T06:42:54.693Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2160
+      "ms": 2207
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 836
+      "ms": 1258
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 1827
+      "ms": 2394
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 523
+      "ms": 519
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 356
+      "ms": 514
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,24 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 3
+      "ms": 1
     }
   ],
   "items": [
+    {
+      "id": "qc5as0",
+      "title": "First Solo",
+      "url": "https://www.kmitl.ac.th/article/first-solo",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-10-27T02:24:05.000Z",
+      "cs": false
+    },
     {
       "id": "t8y8x0",
       "title": "รางวัลเหรียญเงิน “Super AI Engineer Season 6",
@@ -276,20 +290,6 @@
       "image": null,
       "summary": null,
       "date": "2026-10-06T10:02:31.000Z",
-      "cs": false
-    },
-    {
-      "id": "150kwmr",
-      "title": "ขอบคุณผู้ร่วมงาน KMITLOpenHouse2026 Dek-D’s TCAS Fair",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%87%E0%B8%B2%E0%B8%99-kmitlopenhouse2026%C2%A0dek-d%E2%80%99s-tcas-fair",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "#KMITLOpenHouse2026",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-06T09:52:38.000Z",
       "cs": false
     },
     {
@@ -1259,9 +1259,9 @@
       "cs": false
     },
     {
-      "id": "75miyn",
-      "title": "ขอเชิญร่วมพิธีบำเพ็ญกุศลเฉลิมพระเกียรติ ร.4",
-      "url": "https://www.kmitl.ac.th/event/%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%9A%E0%B8%B3%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%81%E0%B8%B8%E0%B8%A8%E0%B8%A5%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4-%E0%B8%A34",
+      "id": "77exet",
+      "title": "Smart City Venture",
+      "url": "https://www.kmitl.ac.th/event/smart-city-venture",
       "sourceId": "kmitl-home",
       "source": "KMITL Official Website — Highlights",
       "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
