@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T06:42:54.693Z",
+  "generatedAt": "2026-10-29T06:50:15.858Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2207
+      "ms": 2831
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1258
+      "ms": 1051
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2394
+      "ms": 2075
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 519
+      "ms": 524
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 514
+      "ms": 833
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,52 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 1
+      "ms": 0
     }
   ],
   "items": [
+    {
+      "id": "v0244z",
+      "title": "KOSEN-KMITL เปิดโลกการเรียนรู้ด้านวิศวกรรม ทำความรู้จัก 3 สาขาวิชา พร้อมหลักสูตรวิศวกรรมนวัตกรรมขั้นสูง",
+      "url": "https://www.kmitl.ac.th/article/kosen-kmitl-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1-%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-3-%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-10-29T02:43:40.000Z",
+      "cs": false
+    },
+    {
+      "id": "1cms6mw",
+      "title": "วิศวลาดกระบัง เปิดรับสมัคร ปวส. ต่อเนื่อง สู่ปริญญาตรี แบบรับตรง ปีการศึกษา 2570",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3-%E0%B8%9B%E0%B8%A7%E0%B8%AA-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B5-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%A3%E0%B8%87-%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2-2570",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-10-29T02:17:49.000Z",
+      "cs": false
+    },
+    {
+      "id": "vng7af",
+      "title": "1 ใน 8 ตัวแทนอาจารย์จากประเทศไทย เข้าร่วม STS forum Young Leaders 2026",
+      "url": "https://www.it.kmitl.ac.th/th/posts/1-nai-8-tuathaenoacharychakprathesthai-khearuam-sts-forum-young-leaders-2026",
+      "sourceId": "it-awards",
+      "source": "Faculty of IT (KMITL) — Awards News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
+      "kind": "website",
+      "category": "ข่าวรางวัล/ผลงาน",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Congrats%2520-%25201%2520%25E0%25B9%2583%25E0%25B8%2599%25208%2520%25E0%25B8%2595%25E0%25B8%25B1%25E0%25B8%25A7%25E0%25B9%2581%25E0%25B8%2597%25E0%25B8%2599%25E0%25B8%25AD%25E0%25B8%25B2%25E0%25B8%2588%25E0%25B8%25B2%25E0%25B8%25A3%25E0%25B8%25A2%25E0%25B9%258C%25E0%25B8%2588%25E0%25B8%25B2%25E0%25B8%2581%25E0%25B8%259B%25E0%25B8%25A3%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%2597%25E0%25B8%25A8%25E0%25B9%2584%25E0%25B8%2597%25E0%25B8%25A2%25E0%25B9%2583%25E0%25B8%25AB%25E0%25B9%2589%25E0%25B9%2580%25E0%25B8%2582%25E0%25B9%2589%25E0%25B8%25B2%25E0%25B8%25A3%25E0%25B9%2588%25E0%25B8%25A7%25E0%25B8%25A1%25E0%25B8%2587%25E0%25B8%25B2%25E0%25B8%2599%2520STS%2520forum%2520%25E0%25B9%2583%25E0%25B8%2599%25E0%25B8%2590%25E0%25B8%25B2%25E0%25B8%2599%25E0%25B8%25B0%2520Sts%2520forum%2520young%2520leader%25202026-900x600.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-10-28T10:54:36.708Z",
+      "cs": false
+    },
     {
       "id": "qc5as0",
       "title": "First Solo",
@@ -251,20 +293,6 @@
       "cs": false
     },
     {
-      "id": "1iq40er",
-      "title": "รวมประกาศ",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-07T13:07:40.000Z",
-      "cs": false
-    },
-    {
       "id": "1gr7ict",
       "title": "PIPEK ตรวจสุขภาพเบื้องต้นได้ทุกวัน ไม่ต้องเจาะเลือด",
       "url": "https://www.kmitl.ac.th/article/pipek-%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94",
@@ -276,20 +304,6 @@
       "image": null,
       "summary": null,
       "date": "2026-10-06T10:15:18.000Z",
-      "cs": false
-    },
-    {
-      "id": "5upod0",
-      "title": "3 พระจอมเกล้า ผนึกพลังเทคโนโลยีและนวัตกรรม",
-      "url": "https://www.kmitl.ac.th/article/3-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2-%E0%B8%9C%E0%B8%99%E0%B8%B6%E0%B8%81%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-06T10:02:31.000Z",
       "cs": false
     },
     {
@@ -794,20 +808,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867pix_Award_Best%2520Prize%2520%25E0%25B9%2581%25E0%25B8%25A5%25E0%25B8%25B0%2520Grand%2520Prize%2520%25E0%25B8%2581%25E0%25B8%25B2%25E0%25B8%25A3%25E0%25B9%2581%25E0%25B8%2582%25E0%25B9%2588%25E0%25B8%2587%25E0%25B8%2582%25E0%25B8%25B1%25E0%25B8%2599%25E0%25B8%2599%25E0%25B8%25A7%25E0%25B8%25B1%25E0%25B8%2595%25E0%25B8%2581%25E0%25B8%25A3%25E0%25B8%25A3%25E0%25B8%25A1%25E0%25B8%25A3%25E0%25B8%25B0%25E0%25B8%2594%25E0%25B8%25B1%25E0%25B8%259A%25E0%25B8%2599%25E0%25B8%25B2%25E0%25B8%2599%25E0%25B8%25B2%25E0%25B8%258A%25E0%25B8%25B2%25E0%25B8%2595%25E0%25B8%25B4%2520InterHack%25202025-900x600.jpg&w=750&q=75",
       "summary": null,
       "date": "2026-02-03T08:03:30.608Z",
-      "cs": false
-    },
-    {
-      "id": "tnor59",
-      "title": "รางวัลคณะดำเนินการสหกิจศึกษาและการศึกษาเชิงบูรณาการกับการทำงาน ดีเด่น ระดับสถาบัน ประจำปึงบประมาณ 2569",
-      "url": "https://www.it.kmitl.ac.th/th/posts/rangualkhnadamnoenkanshkichsueksalaekansueksachoengburnakankabkanthamngan-diden-radabsthaban-prachampuengobpraman-2569",
-      "sourceId": "it-awards",
-      "source": "Faculty of IT (KMITL) — Awards News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
-      "kind": "website",
-      "category": "ข่าวรางวัล/ผลงาน",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_%25E0%25B8%25A3%25E0%25B8%25B2%25E0%25B8%2587%25E0%25B8%25A7%25E0%25B8%25B1%25E0%25B8%25A5%25E0%25B8%25AA%25E0%25B8%25AB%25E0%25B8%2581%25E0%25B8%25B4%25E0%25B8%2588%25202569-3-900x600.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-02-02T10:40:32.518Z",
       "cs": false
     },
     {
