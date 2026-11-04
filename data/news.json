@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T07:43:38.607Z",
+  "generatedAt": "2026-11-04T07:21:13.271Z",
   "itemCount": 85,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2734
+      "ms": 2165
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 23,
-      "ms": 1521
+      "ms": 910
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 5493
+      "ms": 2266
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2333
+      "ms": 581
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2300
+      "ms": 348
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,38 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 0
+      "ms": 1
     }
   ],
   "items": [
+    {
+      "id": "2lmyur",
+      "title": "TSEN-KMITL 2026",
+      "url": "https://www.kmitl.ac.th/article/tsen-kmitl-2026",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-11-03T07:42:20.000Z",
+      "cs": false
+    },
+    {
+      "id": "169jie",
+      "title": "สจล-ชุมพร ประกาศรายชื่อผู้มีสิทธิ์สอบสัมภาษณ์ TCAS1-2 รอบ Portfolio",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A3-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%A1%E0%B8%B5%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%93%E0%B9%8C-tcas1-2-%E0%B8%A3%E0%B8%AD%E0%B8%9A-portfolio",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-11-03T03:09:47.000Z",
+      "cs": false
+    },
     {
       "id": "jyrlel",
       "title": "สจล-ชุมพร เปิดรับ ปวส.ต่อปริญญาตรี",
@@ -248,34 +276,6 @@
       "image": null,
       "summary": null,
       "date": "2026-10-20T08:37:59.000Z",
-      "cs": false
-    },
-    {
-      "id": "whosan",
-      "title": "โคเซ็นแห่ง สจล. เปิดรับสมัครนักเรียน",
-      "url": "https://www.kmitl.ac.th/article/%E0%B9%82%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%99%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87-%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-19T03:22:11.000Z",
-      "cs": false
-    },
-    {
-      "id": "1a7cevi",
-      "title": "สจล. ประชุมหารือแนวทางการให้ความช่วยเหลือในสถานการณ์น้ำท่วม",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%99%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%97%E0%B9%88%E0%B8%A7%E0%B8%A1",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-14T13:18:47.000Z",
       "cs": false
     },
     {
