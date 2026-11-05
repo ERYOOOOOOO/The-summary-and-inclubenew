@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T07:21:13.271Z",
+  "generatedAt": "2026-11-05T07:47:14.472Z",
   "itemCount": 85,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2165
+      "ms": 1506
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 23,
-      "ms": 910
+      "ms": 485
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2266
+      "ms": 1592
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 581
+      "ms": 514
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 348
+      "ms": 2089
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,38 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 1
+      "ms": 0
     }
   ],
   "items": [
+    {
+      "id": "wfppgk",
+      "title": "Best Reviewer Award งานประชุมวิชาการนานาชาติ WAIE 2026",
+      "url": "https://www.it.kmitl.ac.th/th/posts/best-reviewer-award-nganprachumuachakannanachat-waie-2026",
+      "sourceId": "it-awards",
+      "source": "Faculty of IT (KMITL) — Awards News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
+      "kind": "website",
+      "category": "ข่าวรางวัล/ผลงาน",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_Best%2520Reviewer%2520Award%2520-%2520WAIE%25202026-900x600.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-11-04T09:51:18.346Z",
+      "cs": false
+    },
+    {
+      "id": "791shx",
+      "title": "รางวัล 2nd Runner-Up การแข่งขัน Smogathon Laos 2026",
+      "url": "https://www.it.kmitl.ac.th/th/posts/rangual-2-nd-runner-up-kankhaengkhan-smogathon-laos-2026",
+      "sourceId": "it-awards",
+      "source": "Faculty of IT (KMITL) — Awards News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
+      "kind": "website",
+      "category": "ข่าวรางวัล/ผลงาน",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1080x1350px_Award_Second%2520Runner%2520Up%2520-%2520Smogathon%2520Laos%25202026-900x1125.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-11-04T08:15:04.404Z",
+      "cs": false
+    },
     {
       "id": "2lmyur",
       "title": "TSEN-KMITL 2026",
@@ -781,34 +809,6 @@
       "summary": null,
       "date": "2026-06-08T09:54:06.238Z",
       "cs": true
-    },
-    {
-      "id": "e5t3v1",
-      "title": "รองชนะเลิศอันดับ 1 ในการแข่งขัน Huawei ICT Competition 2025–2026 ระดับภูมิภาคเอเชียแปซิฟิก",
-      "url": "https://www.it.kmitl.ac.th/th/posts/rongchnaloesondab-1-naikankhaengkhan-huawei-ict-competition-20252026-radabphmiphakhechiapaesifik",
-      "sourceId": "it-awards",
-      "source": "Faculty of IT (KMITL) — Awards News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
-      "kind": "website",
-      "category": "ข่าวรางวัล/ผลงาน",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Aaward%2520-%2520%25E0%25B8%25A3%25E0%25B8%25AD%25E0%25B8%2587%25E0%25B8%258A%25E0%25B8%2599%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%25A5%25E0%25B8%25B4%25E0%25B8%25A8%25E0%25B8%25AD%25E0%25B8%25B1%25E0%25B8%2599%25E0%25B8%2594%25E0%25B8%25B1%25E0%25B8%259A%25201%2520%25E0%25B9%2583%25E0%25B8%2599%25E0%25B8%2581%25E0%25B8%25B2%25E0%25B8%25A3%25E0%25B9%2581%25E0%25B8%2582%25E0%25B9%2588%25E0%25B8%2587%25E0%25B8%2582%25E0%25B8%25B1%25E0%25B8%2599%2520Huawei%2520ICT%2520Competition%25202025-2026%2520%25E0%25B8%25A3%25E0%25B8%25B0%25E0%25B8%2594%25E0%25B8%25B1%25E0%25B8%259A%25E0%25B8%25A0%25E0%25B8%25B9%25E0%25B8%25A1%25E0%25B8%25B4%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%2584%25E0%25B9%2580%25E0%25B8%25AD%25E0%25B9%2580%25E0%25B8%258A%25E0%25B8%25B5%25E0%25B8%25A2%25E0%25B9%2581%25E0%25B8%259B%25E0%25B8%258B%25E0%25B8%25B4%25E0%25B8%259F%25E0%25B8%25B4%25E0%25B8%2581-900x600.png&w=750&q=75",
-      "summary": null,
-      "date": "2026-05-20T07:37:00.301Z",
-      "cs": false
-    },
-    {
-      "id": "1aayv3g",
-      "title": "3 รางวัล จากการแข่งขัน GLOBAL GAME JAM ANTDPUJAM-SITE",
-      "url": "https://www.it.kmitl.ac.th/th/posts/3-rangual-chakkankhaengkhan-global-game-jam-antdpujam-site",
-      "sourceId": "it-awards",
-      "source": "Faculty of IT (KMITL) — Awards News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
-      "kind": "website",
-      "category": "ข่าวรางวัล/ผลงาน",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_Global%2520Game%2520Jam%2520Antdpu%2520Jam-Site-900x600.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-02-23T10:27:41.329Z",
-      "cs": false
     },
     {
       "id": "1kgmjfw",
