@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:47:14.472Z",
+  "generatedAt": "2026-11-06T07:46:53.001Z",
   "itemCount": 85,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 1506
+      "ms": 1106
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 23,
-      "ms": 485
+      "ms": 453
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 1592
+      "ms": 1806
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 514
+      "ms": 468
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2089
+      "ms": 453
     },
     {
       "id": "fb-kmitl",
