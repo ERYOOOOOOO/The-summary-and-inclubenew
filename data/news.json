@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:00:27.010Z",
+  "generatedAt": "2026-11-09T07:45:31.644Z",
   "itemCount": 85,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 1402
+      "ms": 2636
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 23,
-      "ms": 587
+      "ms": 1068
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2035
+      "ms": 2485
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 573
+      "ms": 553
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 568
+      "ms": 878
     },
     {
       "id": "fb-kmitl",
@@ -68,6 +68,62 @@
     }
   ],
   "items": [
+    {
+      "id": "1o3bvge",
+      "title": "Outstanding Student Paper Award จากเวทีประชุมวิชาการนานาชาติ ICCAS 2026",
+      "url": "https://www.it.kmitl.ac.th/th/posts/outstanding-student-paper-award-chakwethiprachumuachakannanachat-iccas-2026",
+      "sourceId": "it-awards",
+      "source": "Faculty of IT (KMITL) — Awards News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
+      "kind": "website",
+      "category": "ข่าวรางวัล/ผลงาน",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_Outstanding%2520Student%2520Paper%2520Award-900x600.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-11-09T07:07:42.583Z",
+      "cs": false
+    },
+    {
+      "id": "14swivq",
+      "title": "สจล. เปิดงานอย่างยิ่งใหญ่! BOI STEMPLUS AI PROMPT ENGINEERING BOOTCAMP 2026",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88-boi-stemplus-ai-prompt-engineering-bootcamp-2026",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-11-09T03:36:47.000Z",
+      "cs": true
+    },
+    {
+      "id": "lziphc",
+      "title": "วิศวลาดกระบัง เปิดรับสมัคร TCAS1 Portfolio ปีการศึกษา 2570",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3-tcas1-portfolio-%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2-2570",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-11-09T03:10:02.000Z",
+      "cs": false
+    },
+    {
+      "id": "i4u1ey",
+      "title": "สจล. ร่วมสร้างแรงบันดาลใจ",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A5%E0%B9%83%E0%B8%88",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-11-09T02:40:54.000Z",
+      "cs": false
+    },
     {
       "id": "2dso2y",
       "title": "กฐินพระราชทาน 2569",
@@ -237,34 +293,6 @@
       "cs": false
     },
     {
-      "id": "v0244z",
-      "title": "KOSEN-KMITL เปิดโลกการเรียนรู้ด้านวิศวกรรม ทำความรู้จัก 3 สาขาวิชา พร้อมหลักสูตรวิศวกรรมนวัตกรรมขั้นสูง",
-      "url": "https://www.kmitl.ac.th/article/kosen-kmitl-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1-%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-3-%E0%B8%AA%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-29T02:43:40.000Z",
-      "cs": false
-    },
-    {
-      "id": "1cms6mw",
-      "title": "วิศวลาดกระบัง เปิดรับสมัคร ปวส. ต่อเนื่อง สู่ปริญญาตรี แบบรับตรง ปีการศึกษา 2570",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3-%E0%B8%9B%E0%B8%A7%E0%B8%AA-%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87-%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B5-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%95%E0%B8%A3%E0%B8%87-%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2-2570",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-29T02:17:49.000Z",
-      "cs": false
-    },
-    {
       "id": "vng7af",
       "title": "1 ใน 8 ตัวแทนอาจารย์จากประเทศไทย เข้าร่วม STS forum Young Leaders 2026",
       "url": "https://www.it.kmitl.ac.th/th/posts/1-nai-8-tuathaenoacharychakprathesthai-khearuam-sts-forum-young-leaders-2026",
@@ -276,20 +304,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Congrats%2520-%25201%2520%25E0%25B9%2583%25E0%25B8%2599%25208%2520%25E0%25B8%2595%25E0%25B8%25B1%25E0%25B8%25A7%25E0%25B9%2581%25E0%25B8%2597%25E0%25B8%2599%25E0%25B8%25AD%25E0%25B8%25B2%25E0%25B8%2588%25E0%25B8%25B2%25E0%25B8%25A3%25E0%25B8%25A2%25E0%25B9%258C%25E0%25B8%2588%25E0%25B8%25B2%25E0%25B8%2581%25E0%25B8%259B%25E0%25B8%25A3%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%2597%25E0%25B8%25A8%25E0%25B9%2584%25E0%25B8%2597%25E0%25B8%25A2%25E0%25B9%2583%25E0%25B8%25AB%25E0%25B9%2589%25E0%25B9%2580%25E0%25B8%2582%25E0%25B9%2589%25E0%25B8%25B2%25E0%25B8%25A3%25E0%25B9%2588%25E0%25B8%25A7%25E0%25B8%25A1%25E0%25B8%2587%25E0%25B8%25B2%25E0%25B8%2599%2520STS%2520forum%2520%25E0%25B9%2583%25E0%25B8%2599%25E0%25B8%2590%25E0%25B8%25B2%25E0%25B8%2599%25E0%25B8%25B0%2520Sts%2520forum%2520young%2520leader%25202026-900x600.jpg&w=750&q=75",
       "summary": null,
       "date": "2026-10-28T10:54:36.708Z",
-      "cs": false
-    },
-    {
-      "id": "qc5as0",
-      "title": "First Solo",
-      "url": "https://www.kmitl.ac.th/article/first-solo",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-27T02:24:05.000Z",
       "cs": false
     },
     {
@@ -794,20 +808,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%259E%25E0%25B8%259B%25E0%25B8%2581%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B9%2587%25E0%25B8%259B%25E0%25B9%2584%25E0%25B8%258B%25E0%25B8%2595%25E0%25B9%258C%2520copy-5-900x450.jpg&w=750&q=75",
       "summary": null,
       "date": "2026-06-21T08:33:37.724Z",
-      "cs": true
-    },
-    {
-      "id": "1b2tj1q",
-      "title": "นักศึกษาไอทีลาดกระบังคว้า First Prize เวที Huawei ICT Competition 2025-2026 รอบชิงชนะเลิศระดับโลก",
-      "url": "https://www.it.kmitl.ac.th/th/posts/naksueksaaithiladokrabangkhuaa-first-prize-wethi-huawei-ict-competition-2025-2026-robchingchnaloesradablok",
-      "sourceId": "it-awards",
-      "source": "Faculty of IT (KMITL) — Awards News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวรางวัล",
-      "kind": "website",
-      "category": "ข่าวรางวัล/ผลงาน",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_First%2520Prize%2520%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B8%2597%25E0%25B8%25B5%2520Huawei%2520ICT%2520Competition%25202025-2026%2520%25E0%25B8%25A3%25E0%25B8%25AD%25E0%25B8%259A%25E0%25B8%258A%25E0%25B8%25B4%25E0%25B8%2587%25E0%25B8%258A%25E0%25B8%2599%25E0%25B8%25B0%25E0%25B9%2580%25E0%25B8%25A5%25E0%25B8%25B4%25E0%25B8%25A8%25E0%25B8%25A3%25E0%25B8%25B0%25E0%25B8%2594%25E0%25B8%25B1%25E0%25B8%259A%25E0%25B9%2582%25E0%25B8%25A5%25E0%25B8%2581-900x600.png&w=750&q=75",
-      "summary": null,
-      "date": "2026-06-08T09:54:06.238Z",
       "cs": true
     },
     {
