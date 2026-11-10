@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T07:45:31.644Z",
-  "itemCount": 85,
+  "generatedAt": "2026-11-10T08:06:11.598Z",
+  "itemCount": 86,
   "sources": [
     {
       "id": "kmitl-news",
@@ -8,15 +8,15 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2636
+      "ms": 3314
     },
     {
       "id": "kmitl-home",
       "name": "KMITL Official Website — Highlights",
       "kind": "website",
       "status": "ok",
-      "count": 23,
-      "ms": 1068
+      "count": 24,
+      "ms": 724
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2485
+      "ms": 1629
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 553
+      "ms": 451
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 878
+      "ms": 447
     },
     {
       "id": "fb-kmitl",
@@ -64,7 +64,7 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 1
+      "ms": 2
     }
   ],
   "items": [
@@ -80,6 +80,20 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_Outstanding%2520Student%2520Paper%2520Award-900x600.jpg&w=750&q=75",
       "summary": null,
       "date": "2026-11-09T07:07:42.583Z",
+      "cs": false
+    },
+    {
+      "id": "167gjlb",
+      "title": "ขอแสดงความยินดี",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%82%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5-6",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-11-09T05:52:17.000Z",
       "cs": false
     },
     {
@@ -276,20 +290,6 @@
       "image": null,
       "summary": null,
       "date": "2026-10-29T07:20:06.000Z",
-      "cs": false
-    },
-    {
-      "id": "1vfm7mh",
-      "title": "คณะเทคโนโลยีนวัตกรรมบูรณาการ สจล. เปิดรับสมัครนักศึกษาใหม่ TCAS 70 รอบ Portfolio 1",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3-%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-tcas-70-%E0%B8%A3%E0%B8%AD%E0%B8%9A-portfolio-1",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-29T06:13:32.000Z",
       "cs": false
     },
     {
@@ -937,20 +937,6 @@
       "cs": false
     },
     {
-      "id": "19db7e0",
-      "title": "Green City Conference 2025",
-      "url": "https://www.kmitl.ac.th/article/green-city-conference-2025",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "SDG",
-      "image": null,
-      "summary": null,
-      "date": "2025-01-16T03:01:57.000Z",
-      "cs": false
-    },
-    {
       "id": "l91q4",
       "title": "ขอเชิญเข้าร่วม Workshop การสร้างภาพด้วยปัญญาประดิษฐ์",
       "url": "https://www.it.kmitl.ac.th/th/posts/%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1-workshop-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2",
@@ -1245,9 +1231,37 @@
       "cs": false
     },
     {
-      "id": "77exet",
-      "title": "Smart City Venture",
-      "url": "https://www.kmitl.ac.th/event/smart-city-venture",
+      "id": "1xu44bg",
+      "title": "49 ปี คณะครุศาสตร์อุตสาหกรรมและเทคโนโลยี",
+      "url": "https://www.kmitl.ac.th/event/49-%E0%B8%9B%E0%B8%B5-%E0%B8%84%E0%B8%93%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%B8%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5",
+      "sourceId": "kmitl-home",
+      "source": "KMITL Official Website — Highlights",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
+      "kind": "website",
+      "category": null,
+      "image": null,
+      "summary": null,
+      "date": null,
+      "cs": false
+    },
+    {
+      "id": "4geflv",
+      "title": "English Intensive Course รุ่นที่ 22",
+      "url": "https://www.kmitl.ac.th/event/english-intensive-course-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-22",
+      "sourceId": "kmitl-home",
+      "source": "KMITL Official Website — Highlights",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
+      "kind": "website",
+      "category": null,
+      "image": null,
+      "summary": null,
+      "date": null,
+      "cs": false
+    },
+    {
+      "id": "zjepb9",
+      "title": "อภินิหารทางการเงิน",
+      "url": "https://www.kmitl.ac.th/event/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99",
       "sourceId": "kmitl-home",
       "source": "KMITL Official Website — Highlights",
       "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
