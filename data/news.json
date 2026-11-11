@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T08:06:11.598Z",
+  "generatedAt": "2026-11-11T07:35:46.437Z",
   "itemCount": 86,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 3314
+      "ms": 1932
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 724
+      "ms": 1311
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 1629
+      "ms": 2108
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 451
+      "ms": 528
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 447
+      "ms": 528
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,24 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 2
+      "ms": 0
     }
   ],
   "items": [
+    {
+      "id": "mfknzg",
+      "title": "สจล. ผนึกกำลังบางจากฯ ขับเคลื่อนโครงการFarm to Fly",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%9C%E0%B8%99%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AF-%E0%B8%82%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3farm-fly",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-11-11T06:19:57.000Z",
+      "cs": false
+    },
     {
       "id": "1o3bvge",
       "title": "Outstanding Student Paper Award จากเวทีประชุมวิชาการนานาชาติ ICCAS 2026",
@@ -277,20 +291,6 @@
       "summary": null,
       "date": "2026-11-02T10:29:38.962Z",
       "cs": true
-    },
-    {
-      "id": "1nwl5kq",
-      "title": "สจล. สร้างชื่อระดับประเทศ! ทีมนักวิจัยคว้ารางวัล NRCT AWARD 2026",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8-%E0%B8%97%E0%B8%B5%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A7%E0%B8%B4%E0%B8%88%E0%B8%B1%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5-nrct-award-2026",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-29T07:20:06.000Z",
-      "cs": false
     },
     {
       "id": "vng7af",
@@ -626,20 +626,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867pix_ICA-SYMP%25202027-900x600.jpg&w=750&q=75",
       "summary": null,
       "date": "2026-09-01T03:23:00.683Z",
-      "cs": false
-    },
-    {
-      "id": "1gbefk6",
-      "title": "ประกาศผู้ชนะ_ชุดสนับสนุนการจัดการเรียนการสอน จำนวน 1 ชุด",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B8%8A%E0%B8%99%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%99-%E0%B8%88%E0%B8%B3%E0%B8%99%E0%B8%A7%E0%B8%99-1-%E0%B8%8A%E0%B8%B8%E0%B8%94",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Research",
-      "image": null,
-      "summary": null,
-      "date": "2026-08-25T05:11:03.000Z",
       "cs": false
     },
     {
@@ -1019,6 +1005,20 @@
       "summary": null,
       "date": "2024-03-01T09:38:52.000Z",
       "cs": false
+    },
+    {
+      "id": "1hilqrv",
+      "title": "สจล.คิดค้นนวัตกรรม AI \"เค-เวจจี้ สกรีน\" เครื่องตรวจจับสารพิษตกค้างในผักผลไม้แบบพกพา",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1-ai-%E0%B9%80%E0%B8%84-%E0%B9%80%E0%B8%A7%E0%B8%88%E0%B8%88%E0%B8%B5%E0%B9%89-%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%95%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9E%E0%B8%81%E0%B8%9E%E0%B8%B2",
+      "sourceId": "kmitl-home",
+      "source": "KMITL Official Website — Highlights",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2024-01-26T04:32:25.000Z",
+      "cs": true
     },
     {
       "id": "1ns0hci",
