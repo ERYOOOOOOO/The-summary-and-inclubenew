@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T07:35:46.437Z",
-  "itemCount": 86,
+  "generatedAt": "2026-11-12T08:02:29.312Z",
+  "itemCount": 85,
   "sources": [
     {
       "id": "kmitl-news",
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 1932
+      "ms": 1198
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1311
+      "ms": 726
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2108
+      "ms": 2481
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 528
+      "ms": 746
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 528
+      "ms": 321
     },
     {
       "id": "fb-kmitl",
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "1te52d8",
+      "title": "Join us at ISBBSE-2026!",
+      "url": "https://www.it.kmitl.ac.th/th/posts/join-us-at-isbbse-2026",
+      "sourceId": "it-event",
+      "source": "Faculty of IT (KMITL) — Event News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
+      "kind": "website",
+      "category": "ข่าววิจัย",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2FISBBSE-2026%2520-%25201300x867px-900x600.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-11-11T08:06:02.814Z",
+      "cs": false
+    },
     {
       "id": "mfknzg",
       "title": "สจล. ผนึกกำลังบางจากฯ ขับเคลื่อนโครงการFarm to Fly",
@@ -783,20 +797,6 @@
       "cs": true
     },
     {
-      "id": "qwld8s",
-      "title": "ก้าวแรกสู่รั้วไอทีลาดกระบัง กับกิจกรรมปฐมนิเทศนักศึกษาใหม่ ป.ตรี 2569",
-      "url": "https://www.it.kmitl.ac.th/th/posts/kawraeksurawaithiladokrabang-kabkichkampthomnithesnaksueksahaim-ptri-2569",
-      "sourceId": "it-event",
-      "source": "Faculty of IT (KMITL) — Event News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
-      "kind": "website",
-      "category": "ข่าวกิจกรรม/เหตุการณ์",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%259E%25E0%25B8%259B%25E0%25B8%2581%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B9%2587%25E0%25B8%259B%25E0%25B9%2584%25E0%25B8%258B%25E0%25B8%2595%25E0%25B9%258C%2520copy-5-900x450.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-06-21T08:33:37.724Z",
-      "cs": true
-    },
-    {
       "id": "1kgmjfw",
       "title": "สจล. ด่านช้างเทรล",
       "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%A5",
@@ -1214,20 +1214,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1763-cover-900x480.jpg&w=750&q=75",
       "summary": null,
       "date": "2018-01-05T07:11:03.000Z",
-      "cs": false
-    },
-    {
-      "id": "12364rh",
-      "title": "Best Paper Award จากงาน NCCIT2017",
-      "url": "https://www.it.kmitl.ac.th/th/posts/1687",
-      "sourceId": "it-research",
-      "source": "Faculty of IT (KMITL) — Research News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าววิจัย",
-      "kind": "website",
-      "category": "Best Paper Award",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1759-cover-900x480.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2017-12-25T09:34:26.000Z",
       "cs": false
     },
     {
