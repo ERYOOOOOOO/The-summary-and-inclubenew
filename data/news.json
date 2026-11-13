@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T08:02:29.312Z",
+  "generatedAt": "2026-11-13T07:41:13.159Z",
   "itemCount": 85,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 1198
+      "ms": 1981
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 726
+      "ms": 959
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2481
+      "ms": 2564
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 746
+      "ms": 568
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 321
+      "ms": 334
     },
     {
       "id": "fb-kmitl",
@@ -68,6 +68,20 @@
     }
   ],
   "items": [
+    {
+      "id": "xnkfmn",
+      "title": "ณะไอที สจล. จัดอบรมหลักสูตร DGA101 รุ่นที่ 1 เสริมทักษะดิจิทัลให้บุคลากรภาครัฐ มุ่งสู่รัฐบาลดิจิทัล",
+      "url": "https://www.it.kmitl.ac.th/th/posts/naaithi-schl-chadobromhlaksutr-dga-101-runthi-1-serimthaksadichithalhaibukhlakrphakhrath-mungsurathbaldichithal",
+      "sourceId": "it-event",
+      "source": "Faculty of IT (KMITL) — Event News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
+      "kind": "website",
+      "category": "ข่าวกิจกรรม/เหตุการณ์",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%259E%25E0%25B8%25AB%25E0%25B8%25A1%25E0%25B8%25B9%25E0%25B9%2588-900x450.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-11-12T09:32:17.203Z",
+      "cs": true
+    },
     {
       "id": "1te52d8",
       "title": "Join us at ISBBSE-2026!",
@@ -781,20 +795,6 @@
       "summary": null,
       "date": "2026-06-27T06:45:29.508Z",
       "cs": false
-    },
-    {
-      "id": "1fxa0jx",
-      "title": "คณะเทคโนโลยีสารสนเทศ จัด Special Talk แลกเปลี่ยนองค์ความรู้ด้าน Interaction Design และเกษตรอัจฉริยะที่ขับเคลื่อนด้วยข้อมูล",
-      "url": "https://www.it.kmitl.ac.th/th/posts/khnathekhnoloisarsonthes-chad-special-talk-laekpeliynongkhkhwamrudan-interaction-design-laekestrochchriyathikhabkheluenodwykhmul",
-      "sourceId": "it-event",
-      "source": "Faculty of IT (KMITL) — Event News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
-      "kind": "website",
-      "category": "Research Highlight",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2Fweb%2520banner_1300x867px%2520-%2520Special%2520Talk%2520-%2520Interaction%2520Design%2520and%2520Data-Driven%2520Agriculture-900x600.png&w=750&q=75",
-      "summary": null,
-      "date": "2026-06-26T08:04:04.179Z",
-      "cs": true
     },
     {
       "id": "1kgmjfw",
