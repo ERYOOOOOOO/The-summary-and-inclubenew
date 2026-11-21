@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-20T08:13:03.009Z",
-  "itemCount": 84,
+  "generatedAt": "2026-11-21T08:06:34.297Z",
+  "itemCount": 54,
   "sources": [
     {
       "id": "kmitl-news",
       "name": "KMITL Official Website — News",
       "kind": "website",
-      "status": "ok",
-      "count": 12,
-      "ms": 1518
+      "status": "error",
+      "count": 0,
+      "message": "HTTP 503 for https://www.kmitl.ac.th/content-category/news"
     },
     {
       "id": "kmitl-home",
       "name": "KMITL Official Website — Highlights",
       "kind": "website",
-      "status": "ok",
-      "count": 24,
-      "ms": 704
+      "status": "error",
+      "count": 0,
+      "message": "HTTP 503 for https://www.kmitl.ac.th/"
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 1537
+      "ms": 2336
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 501
+      "ms": 525
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 504
+      "ms": 529
     },
     {
       "id": "fb-kmitl",
@@ -64,80 +64,10 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 0
+      "ms": 1
     }
   ],
   "items": [
-    {
-      "id": "9u7rim",
-      "title": "กล้าพูด กล้าสู้ กล้าบอก",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B8%B9%E0%B8%94-%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B9%E0%B9%89-%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%81",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-19T07:01:18.000Z",
-      "cs": false
-    },
-    {
-      "id": "weuuz0",
-      "title": "สจล.ต้องไม่เป็นเหยื่อ",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A2%E0%B8%B7%E0%B9%88%E0%B8%AD",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-19T07:00:25.000Z",
-      "cs": false
-    },
-    {
-      "id": "dx2gew",
-      "title": "จ่ายแล้วจบไม่มีจริง",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%88%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%88%E0%B8%9A%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%87",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-19T06:56:16.000Z",
-      "cs": false
-    },
-    {
-      "id": "1wo0s06",
-      "title": "รุ่นพี่ไอทีลาดกระบัง โชว์ผลงานระดับโลก ค้นพบช่องโหว่ NASA พร้อมส่งต่อความรู้สู่รุ่นน้อง",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%AD%E0%B8%97%E0%B8%B5%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B9%82%E0%B8%8A%E0%B8%A7%E0%B9%8C%E0%B8%9C%E0%B8%A5%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B9%82%E0%B8%A5%E0%B8%81-%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%9A%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%AB%E0%B8%A7%E0%B9%88-nasa-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%AA%E0%B8%B9%E0%B9%88%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%87",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-19T03:21:53.000Z",
-      "cs": true
-    },
-    {
-      "id": "gugiyx",
-      "title": "ประชุมหารือแนวทางแก้ไขปัญหาอุบัติเหตุ",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-18T01:45:06.000Z",
-      "cs": false
-    },
     {
       "id": "1yhdc04",
       "title": "รุ่นพี่ไอทีลาดกระบัง โชว์ผลงานระดับโลก ค้นพบช่องโหว่ NASA พร้อมส่งต่อความรู้สู่รุ่นน้อง",
@@ -151,20 +81,6 @@
       "summary": null,
       "date": "2026-11-17T09:40:56.177Z",
       "cs": true
-    },
-    {
-      "id": "w4ozvc",
-      "title": "KMITL FIGHT SCAMMERS",
-      "url": "https://www.kmitl.ac.th/article/kmitl-fight-scammers",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-17T01:53:07.000Z",
-      "cs": false
     },
     {
       "id": "xnkfmn",
@@ -195,20 +111,6 @@
       "cs": false
     },
     {
-      "id": "mfknzg",
-      "title": "สจล. ผนึกกำลังบางจากฯ ขับเคลื่อนโครงการFarm to Fly",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%9C%E0%B8%99%E0%B8%B6%E0%B8%81%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%AF-%E0%B8%82%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3farm-fly",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-11T06:19:57.000Z",
-      "cs": false
-    },
-    {
       "id": "1o3bvge",
       "title": "Outstanding Student Paper Award จากเวทีประชุมวิชาการนานาชาติ ICCAS 2026",
       "url": "https://www.it.kmitl.ac.th/th/posts/outstanding-student-paper-award-chakwethiprachumuachakannanachat-iccas-2026",
@@ -220,76 +122,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px_Award_Outstanding%2520Student%2520Paper%2520Award-900x600.jpg&w=750&q=75",
       "summary": null,
       "date": "2026-11-09T07:07:42.583Z",
-      "cs": false
-    },
-    {
-      "id": "167gjlb",
-      "title": "ขอแสดงความยินดี",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%82%E0%B8%AD%E0%B9%81%E0%B8%AA%E0%B8%94%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5-6",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-09T05:52:17.000Z",
-      "cs": false
-    },
-    {
-      "id": "14swivq",
-      "title": "สจล. เปิดงานอย่างยิ่งใหญ่! BOI STEMPLUS AI PROMPT ENGINEERING BOOTCAMP 2026",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88-boi-stemplus-ai-prompt-engineering-bootcamp-2026",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-09T03:36:47.000Z",
-      "cs": true
-    },
-    {
-      "id": "lziphc",
-      "title": "วิศวลาดกระบัง เปิดรับสมัคร TCAS1 Portfolio ปีการศึกษา 2570",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3-tcas1-portfolio-%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2-2570",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-09T03:10:02.000Z",
-      "cs": false
-    },
-    {
-      "id": "i4u1ey",
-      "title": "สจล. ร่วมสร้างแรงบันดาลใจ",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A3%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A5%E0%B9%83%E0%B8%88",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-09T02:40:54.000Z",
-      "cs": false
-    },
-    {
-      "id": "2dso2y",
-      "title": "กฐินพระราชทาน 2569",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%81%E0%B8%90%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%97%E0%B8%B2%E0%B8%99-2569",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-06T08:02:23.000Z",
       "cs": false
     },
     {
@@ -389,34 +221,6 @@
       "summary": null,
       "date": "2026-10-12T05:43:59.136Z",
       "cs": true
-    },
-    {
-      "id": "1gr7ict",
-      "title": "PIPEK ตรวจสุขภาพเบื้องต้นได้ทุกวัน ไม่ต้องเจาะเลือด",
-      "url": "https://www.kmitl.ac.th/article/pipek-%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%97%E0%B8%B8%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%99-%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Research",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-06T10:15:18.000Z",
-      "cs": false
-    },
-    {
-      "id": "yb6gpq",
-      "title": "7 Inspirations",
-      "url": "https://www.kmitl.ac.th/article/7-inspirations-0",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Health & Living",
-      "image": null,
-      "summary": null,
-      "date": "2026-10-06T09:00:45.000Z",
-      "cs": false
     },
     {
       "id": "17kjn7t",
@@ -797,20 +601,6 @@
       "cs": false
     },
     {
-      "id": "1kgmjfw",
-      "title": "สจล. ด่านช้างเทรล",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%94%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%8A%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%A3%E0%B8%A5",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2025-12-09T03:42:51.000Z",
-      "cs": false
-    },
-    {
       "id": "52k0l",
       "title": "📣 Special Talk Invitation",
       "url": "https://www.it.kmitl.ac.th/th/posts/special-talk-invitation",
@@ -837,76 +627,6 @@
       "summary": null,
       "date": "2025-07-30T09:56:24.411Z",
       "cs": true
-    },
-    {
-      "id": "ft2qis",
-      "title": "สจล. เปิดนโยบาย K-CLEAN สร้างมาตรฐานโรงอาหาร",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2-k-clean-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2025-06-16T07:42:47.000Z",
-      "cs": false
-    },
-    {
-      "id": "nq0thq",
-      "title": "การสนับสนุนและร่วมส่งเสริมการขับเคลื่อน KMITL SMART CITY",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%99%E0%B8%B8%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99-kmitl-smart-city",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Building & Grounds",
-      "image": null,
-      "summary": null,
-      "date": "2025-04-28T07:12:26.000Z",
-      "cs": false
-    },
-    {
-      "id": "99pmts",
-      "title": "เปิดรับสมัคร 𝐁𝐞𝐲𝐨𝐧𝐝 𝐆𝐫𝐞𝐞𝐧 𝐀𝐈 𝐟𝐨𝐫 𝐚 𝐓𝐡𝐫𝐢𝐯𝐢𝐧𝐠 𝐅𝐮𝐭𝐮𝐫𝐞 𝐏𝐢𝐭𝐜𝐡 𝐂𝐨𝐦𝐩𝐞𝐭𝐢𝐭𝐢𝐨𝐧 𝟐𝟎𝟐𝟓",
-      "url": "https://www.kmitl.ac.th/article/%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3-%F0%9D%90%81%F0%9D%90%9E%F0%9D%90%B2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%86%F0%9D%90%AB%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%A7-%F0%9D%90%80%F0%9D%90%88-%F0%9D%90%9F%F0%9D%90%A8%F0%9D%90%AB-%F0%9D%90%9A-%F0%9D%90%93%F0%9D%90%A1%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%A0-%F0%9D%90%85%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%9E-%F0%9D%90%8F%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%9C%F0%9D%90%A1-%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A6%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%93",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Energy",
-      "image": null,
-      "summary": null,
-      "date": "2025-03-20T03:42:17.000Z",
-      "cs": false
-    },
-    {
-      "id": "19kzkwd",
-      "title": "เครื่องผลิตออกซิเจนกำลังสูงแบบเคลื่อนที่",
-      "url": "https://www.kmitl.ac.th/article/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%8B%E0%B8%B4%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Research",
-      "image": null,
-      "summary": null,
-      "date": "2025-01-27T05:44:17.000Z",
-      "cs": false
-    },
-    {
-      "id": "18rvlg",
-      "title": "SDGs 17 ข้อ",
-      "url": "https://www.kmitl.ac.th/article/sdgs-17-%E0%B8%82%E0%B9%89%E0%B8%AD",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "SDG",
-      "image": null,
-      "summary": null,
-      "date": "2025-01-27T03:57:37.000Z",
-      "cs": false
     },
     {
       "id": "l91q4",
@@ -993,20 +713,6 @@
       "cs": false
     },
     {
-      "id": "1hilqrv",
-      "title": "สจล.คิดค้นนวัตกรรม AI \"เค-เวจจี้ สกรีน\" เครื่องตรวจจับสารพิษตกค้างในผักผลไม้แบบพกพา",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%88%E0%B8%A5%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1-ai-%E0%B9%80%E0%B8%84-%E0%B9%80%E0%B8%A7%E0%B8%88%E0%B8%88%E0%B8%B5%E0%B9%89-%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%95%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%9C%E0%B8%A5%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9E%E0%B8%81%E0%B8%9E%E0%B8%B2",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2024-01-26T04:32:25.000Z",
-      "cs": true
-    },
-    {
       "id": "1ns0hci",
       "title": "Invitation to attend a special talk",
       "url": "https://www.it.kmitl.ac.th/th/posts/invitation-to-attend-a-special-talk",
@@ -1018,34 +724,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F14254-cover-1-900x600.jpg&w=750&q=75",
       "summary": null,
       "date": "2023-01-13T03:26:12.000Z",
-      "cs": false
-    },
-    {
-      "id": "16c53ao",
-      "title": "KLLC",
-      "url": "https://www.kmitl.ac.th/article/kllc",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Life in KMITL",
-      "image": null,
-      "summary": null,
-      "date": "2022-12-26T08:51:14.000Z",
-      "cs": false
-    },
-    {
-      "id": "1urp44s",
-      "title": "KDMC",
-      "url": "https://www.kmitl.ac.th/article/kdmc-0",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Life in KMITL",
-      "image": null,
-      "summary": null,
-      "date": "2022-12-26T05:45:26.000Z",
       "cs": false
     },
     {
@@ -1074,62 +752,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F12991-cover-900x600.jpg&w=750&q=75",
       "summary": null,
       "date": "2022-02-11T08:05:05.000Z",
-      "cs": false
-    },
-    {
-      "id": "6z6g1h",
-      "title": "หลักสูตรการศึกษา",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%AA%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Life in KMITL",
-      "image": null,
-      "summary": null,
-      "date": "2021-08-19T05:50:31.000Z",
-      "cs": false
-    },
-    {
-      "id": "g5mfpk",
-      "title": "สหกิจศึกษา",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%AA%E0%B8%AB%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Life in KMITL",
-      "image": null,
-      "summary": null,
-      "date": "2021-08-19T05:48:50.000Z",
-      "cs": false
-    },
-    {
-      "id": "yxdkyi",
-      "title": "งานบริการนักศึกษา",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%9A%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Life in KMITL",
-      "image": null,
-      "summary": null,
-      "date": "2021-08-19T05:42:28.000Z",
-      "cs": false
-    },
-    {
-      "id": "cbsy79",
-      "title": "ทุนการศึกษา",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%97%E0%B8%B8%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": "Life in KMITL",
-      "image": null,
-      "summary": null,
-      "date": "2021-08-19T05:40:47.000Z",
       "cs": false
     },
     {
@@ -1200,48 +822,6 @@
       "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1763-cover-900x480.jpg&w=750&q=75",
       "summary": null,
       "date": "2018-01-05T07:11:03.000Z",
-      "cs": false
-    },
-    {
-      "id": "13dsn4f",
-      "title": "Chumphon ARDF 2026 & Thailand University ARDF 2026",
-      "url": "https://www.kmitl.ac.th/event/chumphon-ardf-2026-thailand-university-ardf-2026",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": null,
-      "image": null,
-      "summary": null,
-      "date": null,
-      "cs": false
-    },
-    {
-      "id": "t3qtcw",
-      "title": "Summer School 2027 ณ University of York สหราชอาณาจักร",
-      "url": "https://www.kmitl.ac.th/event/summer-school-2027-%E0%B8%93-university-york-%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AD%E0%B8%B2%E0%B8%93%E0%B8%B2%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": null,
-      "image": null,
-      "summary": null,
-      "date": null,
-      "cs": false
-    },
-    {
-      "id": "exwo4n",
-      "title": "ขอเชิญร่วมพิธีทำบุญพระนิรันตราย",
-      "url": "https://www.kmitl.ac.th/event/%E0%B8%82%E0%B8%AD%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%8D%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B3%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2",
-      "sourceId": "kmitl-home",
-      "source": "KMITL Official Website — Highlights",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ไฮไลต์",
-      "kind": "website",
-      "category": null,
-      "image": null,
-      "summary": null,
-      "date": null,
       "cs": false
     }
   ]
