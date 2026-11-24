@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:43:56.610Z",
+  "generatedAt": "2026-11-24T10:44:45.403Z",
   "itemCount": 84,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 1548
+      "ms": 1380
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1090
+      "ms": 819
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 5333
+      "ms": 2644
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2468
+      "ms": 567
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2492
+      "ms": 345
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,24 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 1
+      "ms": 0
     }
   ],
   "items": [
+    {
+      "id": "z9sxy1",
+      "title": "จุดประกายคนรุ่นใหม่สายเทคโนโลยี! นักเรียนโรงเรียนมหิดลวิทยานุสรณ์ เยือนคณะไอทีลาดกระบัง พร้อมเปิดประสบการณ์ Data Science",
+      "url": "https://www.it.kmitl.ac.th/th/posts/igniting-the-next-generation-of-technology-enthusiasts-students-from-mahidol-wittayanusorn-school-visit-school-of-information-technology-ladkrabang-for-a-data-science-experience",
+      "sourceId": "it-event",
+      "source": "Faculty of IT (KMITL) — Event News",
+      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
+      "kind": "website",
+      "category": "ข่าวกิจกรรม/เหตุการณ์",
+      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F1300x867px-News_%25E0%25B8%2584%25E0%25B8%2593%25E0%25B8%25B0%25E0%25B8%25A8%25E0%25B8%25B6%25E0%25B8%2581%25E0%25B8%25A9%25E0%25B8%25B2%25E0%25B8%2594%25E0%25B8%25B9%25E0%25B8%2587%25E0%25B8%25B2%25E0%25B8%2599%25E0%25B8%2588%25E0%25B8%25B2%25E0%25B8%2581%2520%25E0%25B8%25A3%25E0%25B8%25A3.%2520%25E0%25B8%25A1%25E0%25B8%25AB%25E0%25B8%25B4%25E0%25B8%2594%25E0%25B8%25A5%25E0%25B8%25A7%25E0%25B8%25B4%25E0%25B8%2597%25E0%25B8%25A2%25E0%25B8%25B2%25E0%25B8%2599%25E0%25B8%25B8%25E0%25B8%25AA%25E0%25B8%25A3%25E0%25B8%2593%25E0%25B9%258C-900x600.jpg&w=750&q=75",
+      "summary": null,
+      "date": "2026-11-24T10:01:49.206Z",
+      "cs": true
+    },
     {
       "id": "11kicy5",
       "title": "KMITL FIGHT SCAMMERS",
@@ -781,20 +795,6 @@
       "summary": null,
       "date": "2026-06-29T06:40:15.332Z",
       "cs": true
-    },
-    {
-      "id": "1nqwghs",
-      "title": "ปฐมนิเทศนักศึกษาใหม่ระดับบัณฑิตศึกษา 1/2569",
-      "url": "https://www.it.kmitl.ac.th/th/posts/pthomnithesnaksueksahaimradabbanthtsueksa-12569",
-      "sourceId": "it-event",
-      "source": "Faculty of IT (KMITL) — Event News",
-      "sourceTh": "คณะเทคโนโลยีสารสนเทศ สจล. — ข่าวกิจกรรม",
-      "kind": "website",
-      "category": "ข่าวกิจกรรม/เหตุการณ์",
-      "image": "https://www.it.kmitl.ac.th/_next/image?url=https%3A%2F%2Fs3.www.it.kmitl.co%2Fwwwitkmitl%2F%25E0%25B8%25A0%25E0%25B8%25B2%25E0%25B8%259E%25E0%25B8%259B%25E0%25B8%2581%25E0%25B9%2580%25E0%25B8%25A7%25E0%25B9%2587%25E0%25B8%259B%25E0%25B9%2584%25E0%25B8%258B%25E0%25B8%2595%25E0%25B9%258C%2520copy%25202-1-900x450.jpg&w=750&q=75",
-      "summary": null,
-      "date": "2026-06-27T06:48:08.998Z",
-      "cs": false
     },
     {
       "id": "1kgmjfw",
