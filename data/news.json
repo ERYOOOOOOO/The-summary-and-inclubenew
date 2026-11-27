@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T09:15:50.842Z",
+  "generatedAt": "2026-11-27T09:31:14.239Z",
   "itemCount": 84,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "kind": "website",
       "status": "ok",
       "count": 12,
-      "ms": 2145
+      "ms": 1854
     },
     {
       "id": "kmitl-home",
@@ -16,7 +16,7 @@
       "kind": "website",
       "status": "ok",
       "count": 24,
-      "ms": 1130
+      "ms": 1026
     },
     {
       "id": "it-event",
@@ -24,7 +24,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 4994
+      "ms": 1986
     },
     {
       "id": "it-research",
@@ -32,7 +32,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2469
+      "ms": 576
     },
     {
       "id": "it-awards",
@@ -40,7 +40,7 @@
       "kind": "website",
       "status": "ok",
       "count": 18,
-      "ms": 2463
+      "ms": 334
     },
     {
       "id": "fb-kmitl",
@@ -64,10 +64,24 @@
       "kind": "manual",
       "status": "ok",
       "count": 1,
-      "ms": 5
+      "ms": 1
     }
   ],
   "items": [
+    {
+      "id": "1wp60hm",
+      "title": "นักศึกษา สจล. คว้า 2 รางวัลใหญ่ เวทีประชุมวิชาการทันตแพทยศาสตร์ระดับนานาชาติ DFCT 2026",
+      "url": "https://www.kmitl.ac.th/article/%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2-%E0%B8%AA%E0%B8%88%E0%B8%A5-%E0%B8%84%E0%B8%A7%E0%B9%89%E0%B8%B2-2-%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88-%E0%B9%80%E0%B8%A7%E0%B8%97%E0%B8%B5%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B8%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-dfct-2026",
+      "sourceId": "kmitl-news",
+      "source": "KMITL Official Website — News",
+      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
+      "kind": "website",
+      "category": "News",
+      "image": null,
+      "summary": null,
+      "date": "2026-11-27T01:26:00.000Z",
+      "cs": false
+    },
     {
       "id": "9wdnku",
       "title": "สุดยอด! ทีม Initial Formula KMITL คว้ารองชนะเลิศ บนเวที Formula Student Electric China",
@@ -291,20 +305,6 @@
       "summary": null,
       "date": "2026-11-09T03:36:47.000Z",
       "cs": true
-    },
-    {
-      "id": "lziphc",
-      "title": "วิศวลาดกระบัง เปิดรับสมัคร TCAS1 Portfolio ปีการศึกษา 2570",
-      "url": "https://www.kmitl.ac.th/article/%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%B1%E0%B8%87-%E0%B9%80%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3-tcas1-portfolio-%E0%B8%9B%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2-2570",
-      "sourceId": "kmitl-news",
-      "source": "KMITL Official Website — News",
-      "sourceTh": "เว็บไซต์ทางการ สจล. — ข่าว",
-      "kind": "website",
-      "category": "News",
-      "image": null,
-      "summary": null,
-      "date": "2026-11-09T03:10:02.000Z",
-      "cs": false
     },
     {
       "id": "wfppgk",
